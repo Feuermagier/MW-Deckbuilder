@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.cell.*?> 
+<?import javafx.collections.*?> 
+<?import javafx.geometry.Insets?>
+<?import application.builder.*?>
+<?import application.view.components.cardtable.*?>
+<?import application.view.mainpanel.filterpanel.*?>
+<?import javafx.scene.image.ImageView?>
+<?import java.net.URL?>
+<?import application.view.components.cardtable.CardTableView?>
+<?import application.view.components.spellbooktable.SpellbookTable?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollPane?>
+
+<VBox xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="cardcreator.ui.Controller">
+	<MenuBar>
+		<menus>
+			<Menu text="File">
+				<items>
+					<MenuItem text="Neues Set" />
+					<MenuItem text="Set speichern" />
+				</items>
+			</Menu>
+		</menus>
+	</MenuBar>
+	<HBox>
+		<TabPane tabClosingPolicy="UNAVAILABLE" HBox.hgrow="ALWAYS">
+			<Tab text="Meta">
+				<content>
+					<VBox styleClass="Box">
+						<HBox styleClass="Box">
+							<Label text="OCTGN-ID:" style="-fx-alignment: baseligne-left;" />
+							<TextField fx:id="octgnField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Tags:" style="-fx-alignment: baseligne-left;" />
+							<TextField fx:id="tagsField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Rollen:" style="-fx-alignment: baseligne-left;" />
+							<TextField fx:id="rolesField" />
+						</HBox>
+					</VBox>
+				</content>
+			</Tab>
+			<Tab text="Daten">
+				<content>
+					<ScrollPane>
+						<VBox styleClass="Box">
+							<ComboBox fx:id="typeCombo" promptText="Typ">
+								<cellFactory>
+									<TypeComboFactory />
+								</cellFactory>
+								<items>
+									<FXCollections fx:factory="observableArrayList">
+										<Type fx:value="CREATURE" />
+										<Type fx:value="EQUIPMENT" />
+										<Type fx:value="CONJURATION" />
+										<Type fx:value="ENCHANTMENT" />
+										<Type fx:value="INCANTATION" />
+										<Type fx:value="ATTACK" />
+									</FXCollections>
+								</items>
+							</ComboBox>
+							<HBox styleClass="Box">
+								<Label text="Subtypes:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="subtypesField" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Mana:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="manaField" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Schulen:" style="-fx-alignment: baseligne-left;" />
+								<VBox fx:id="schoolBox" styleClass="Box">
+
+								</VBox>
+								<ComboBox fx:id="schoolRelationCombo" promptText="Relation">
+									<items>
+										<FXCollections fx:factory="observableArrayList">
+											<String fx:value="Und" />
+											<String fx:value="Oder" />
+										</FXCollections>
+									</items>
+								</ComboBox>
+								<Button fx:id="newSchoolButton" text="Neue Schule" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Aktion:" style="-fx-alignment: baseligne-left;" />
+								<ComboBox fx:id="actionCombo">
+									<items>
+										<FXCollections fx:factory="observableArrayList">
+											<String fx:value="Schnell" />
+											<String fx:value="Vollständig" />
+										</FXCollections>
+									</items>
+								</ComboBox>
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Reichweite minimal:" />
+								<TextField fx:id="minRangeField" />
+								<Label text="Reichweite maximal:" />
+								<TextField fx:id="maxRangeField" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Ziel (nur programmatisch!):" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="targetField" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Slots:" />
+								<VBox fx:id="slotBox" styleClass="Box">
+
+								</VBox>
+								<ComboBox fx:id="slotRelationCombo" promptText="Relation"
+									disable="true">
+									<items>
+										<FXCollections fx:factory="observableArrayList">
+											<String fx:value="Und" />
+											<String fx:value="Oder" />
+										</FXCollections>
+									</items>
+								</ComboBox>
+								<Button fx:id="newSlotButton" text="Neuer Slot" disable="true" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Rüstung:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="armorField" disable="true" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Leben:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="lifeField" disable="true" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Verteidigung:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="defenseMinDiceField" promptText="Minimaler Würfelwert"
+									disable="true" />
+								<TextField fx:id="defenseMaxDiceField" promptText="Anzahl (Unendlich = -1)"
+									disable="true" />
+								<ComboBox fx:id="defenseAgainstCombo" disable="true">
+									<items>
+										<FXCollections fx:factory="observableArrayList">
+											<String fx:value="Alles" />
+											<String fx:value="Nur Nahkampf" />
+											<String fx:value="Nur Fernkampf" />
+										</FXCollections>
+									</items>
+								</ComboBox>
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Manasammlung:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="manaCollectField" disable="true" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Angriffe:" style="-fx-alignment: baseligne-left;" />
+								<VBox fx:id="attackBox" styleClass="Box">
+								</VBox>
+								<Button fx:id="newAttackButton" text="Neuer Angriff"
+									disable="true" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Nur für:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="onlyForField" promptText="Auf englisch eintragen!" />
+							</HBox>
+							<HBox styleClass="Box">
+								<Label text="Mermale:" style="-fx-alignment: baseligne-left;" />
+								<TextField fx:id="traitField" promptText="Auf englisch eintragen!"
+									disable="true" />
+							</HBox>
+						</VBox>
+					</ScrollPane>
+				</content>
+			</Tab>
+			<Tab text="Englisch">
+				<content>
+					<VBox>
+						<HBox styleClass="Box">
+							<Label text="Name:" />
+							<TextField fx:id="nameEnglishField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Tipps:" />
+							<CheckBox fx:id="helpEnglishCheck" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Errata:" />
+							<CheckBox fx:id="errataEnglishCheck" />
+
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Ziel:" />
+							<TextField fx:id="targetEnglishField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Kartentext:" />
+							<TextArea fx:id="textEnglishField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Karten-ID:" />
+							<TextField fx:id="cardIDEnglishField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Flavor-Text:" />
+							<TextField fx:id="flavorEnglishField" />
+						</HBox>
+					</VBox>
+				</content>
+			</Tab>
+			<Tab text="Deutsch">
+				<content>
+					<VBox>
+						<HBox styleClass="Box">
+							<Label text="Name:" />
+							<TextField fx:id="nameGermanField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Tipps:" />
+							<CheckBox fx:id="helpGermanCheck" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Errata:" />
+							<CheckBox fx:id="errataGermanCheck" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Ziel:" />
+							<TextField fx:id="targetGermanField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Kartentext:" />
+							<TextArea fx:id="textGermanField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Karten-ID:" />
+							<TextField fx:id="cardIDGermanField" />
+						</HBox>
+						<HBox styleClass="Box">
+							<Label text="Flavor-Text:" />
+							<TextField fx:id="flavorGermanField" />
+						</HBox>
+					</VBox>
+				</content>
+			</Tab>
+		</TabPane>
+		<VBox>
+			<Button fx:id="addEnglishImageButton" text="Englisches Bild">
+			</Button>
+			<Button fx:id="addGermanImageButton" text="Deutsches Bild" >
+			</Button>
+		</VBox>
+		<ListView fx:id="cardList" />
+	</HBox>
+	<Button fx:id="addCardButton" text="Karte hinzufügen" />
+	<Button fx:id="newCardButton" text="Neue Karte" />
+	<stylesheets>
+		<URL value="@/stylesheets/cardcreator.css" />
+	</stylesheets>
+</VBox>
+

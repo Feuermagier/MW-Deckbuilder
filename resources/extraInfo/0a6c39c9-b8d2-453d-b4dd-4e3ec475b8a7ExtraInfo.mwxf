@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="academyWarlock">
+  <card name="Firestream" id="14497585-2895-4283-8d39-5dcfb597e193">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Twin Fireball" id="1670867b-9542-43cc-8afa-ffd676b65432">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Volley of Flame" id="1ad9993d-4025-46d0-a916-ed67aed7ed27">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Mhegedden, Sealed Demon" id="20e90477-12b6-4d58-b351-debd82f4ea54">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Afflicted Demon" id="228350cb-8201-4e11-89dd-8f0c7557bee3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Combustion Demon" id="24123c10-4e5b-4495-bf31-1088b1b69500">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Drakas, Imp Overlord" id="25fa30e2-24ba-4112-8e18-8d4fa91a61b9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Firefist Brawler" id="2621a56d-1936-45a0-ba04-63e9184e6bb2">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Kharne, Horned Demon" id="291e55ab-d166-4247-b909-f982e9f2ea48">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Khali-Gar, Blade Maiden" id="2a4f0cbc-6a64-4a68-bb3f-bd8ddd023752">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Naraka Vampiress" id="2cca4705-17d2-4972-9a75-4b3cf4efe858">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Sanguine Hunter" id="2f6bec45-0156-40cc-bf56-1c15963d7f45">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Curse Item" id="40ac8844-126a-4535-821f-7ecbe71242bb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Curse of Decay" id="44e89cc6-a5b0-4c9d-a90a-ba01389110fb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Demonic Link" id="4575a8a5-1c7d-4859-80c8-dca61e151e4d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Gator Toughness" id="47b76fd0-6757-4431-b77e-1c1f4d1d7abe">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Redirect" id="49d09423-6c10-460e-a568-add8be8164c9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Sanguine Thirst" id="4bb5d661-447f-4201-ad2b-2eaa479dde86">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Theft of Life" id="4dec9cf2-26de-429d-b95e-741e8d96029f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Burning Cuirass" id="702fb3ef-d0e1-47ce-b553-ff0c5e1d442a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Cloak of Fire" id="72794020-30b4-41aa-82c9-7dfef14e536e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Demonhide Mask" id="742e455b-d551-4458-b9e7-490762f1188f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Eye of Bael" id="749e80c0-00b1-4e6e-b09c-cbdb97837d3c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Hellstar" id="76d366d5-9102-47ed-a4eb-cded80b83031">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Disperse" id="e4c97004-8be5-4a2c-81b7-2b90863f7209">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Extinguish" id="e7ec653b-273f-4326-8e2d-db73615a14be">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Siphon Life" id="e83d404a-39f9-495e-a578-68e09966c853">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Sneak Attack" id="e9127dd1-742f-4d76-860c-4dbd84c1e43c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Unholy Blood Ritual" id="ef2075be-2e07-4c17-95da-e0041ced12ff">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+</extraInfo>

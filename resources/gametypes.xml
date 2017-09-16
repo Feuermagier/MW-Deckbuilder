@@ -1,0 +1,12 @@
+<GameTypes>
+	<GameType name="Arena">
+		<allowedCardTypes>Equipment Creature Conjuration Enchantment Incantation Attack</allowedCardTypes>
+		<maxSpellbookPoints>120</maxSpellbookPoints>
+		<helpLink></helpLink>
+	</GameType>
+	<GameType name="Academy">
+		<allowedCardTypes>Equipment Creature Enchantment Incantation Attack</allowedCardTypes>
+		<maxSpellbookPoints>60</maxSpellbookPoints>
+		<helpLink></helpLink>
+	</GameType>
+</GameTypes>

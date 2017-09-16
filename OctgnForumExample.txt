@@ -1,0 +1,25 @@
+
+
+
+Meditation Necro!
+
+A Necromancer Spellbook
+
+built by the OCTGN SBB
+
+
+Attack
+1 x Hurl Boulder2 x Surging Wave2 x Flameblast1 x Force Hammer
+Conjuration
+3 x Wall of Bones1 x Deathlock1 x Idol of Pestilence1 x Graveyard1 x Altar of Infernia1 x Tanglevine
+Creature
+3 x Skeletal Minion2 x Skeletal Sentry3 x Deathfang1 x Skeletal Archer1 x Blood Demon1 x Grey Wraith
+Enchantment
+1 x Brace Yourself1 x Magebane2 x Agony1 x Maim Wings1 x Arcane Corruption1 x Enfeeble1 x Poisoned Blood2 x Enchantment Transfusion2 x Nullify1 x Regrowth1 x Rust2 x Marked for Death1 x Chant of Rage1 x Blur
+Equipment
+1 x Meditation Amulet1 x Mage Wand2 x Cloak of Shadows1 x Leather Chausses1 x Chitin Armor1 x Elemental Wand
+Incantation
+1 x Reassemble1 x Teleport2 x Dispel2 x Seeking Dispel4 x Dissolve1 x Lesser Teleport1 x Disarm
+Total cost: 120 pts
+
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.cell.*?> 
+<?import javafx.collections.*?> 
+<?import javafx.geometry.Insets?>
+<?import application.builder.*?>
+<?import application.view.components.cardtable.*?>
+<?import application.view.mainpanel.filterpanel.*?>
+<?import javafx.scene.image.ImageView?>
+<?import java.net.URL?>
+<?import application.view.components.cardtable.CardTableView?>
+<?import application.view.components.spellbooktable.SpellbookTable?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.StackPane?>
+
+<VBox fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity"
+	minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/8.0.121"
+	xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.MainUIController">
+	<children>
+		<MenuBar fx:id="menuBar" prefHeight="63.0" prefWidth="600.0">
+			<menus>
+				<Menu text="%builder.menu.file">
+					<items>
+						<MenuItem text="%builder.menu.file.newSpellbook"
+							onAction="#newSpellbook" />
+						<Menu text="%builder.menu.file.open">
+							<items>
+								<MenuItem text="%builder.menu.file.open.octgn"
+									onAction="#loadOCTGNSpellbook" id="loadOCTGNSpellbookItem" />
+							</items>
+						</Menu>
+						<MenuItem text="%builder.menu.file.save" onAction="#save" />
+						<MenuItem text="%builder.menu.file.saveAt" onAction="#saveAt" />
+						<SeparatorMenuItem />
+						<MenuItem text="%builder.menu.file.exit" onAction="#exitApp" />
+					</items>
+				</Menu>
+				<Menu text="%builder.menu.spellbook">
+					<items>
+						<MenuItem text="%builder.menu.spellbook.statistic"
+							onAction="#showSpellbookStatistic" />
+						<MenuItem text="%builder.menu.spellbook.analyze"
+							onAction="#analyzeSpellbook" />
+					</items>
+				</Menu>
+			</menus>
+		</MenuBar>
+		<ToolBar prefHeight="40.0" prefWidth="200.0">
+			<items>
+				<Button fx:id="addButton" mnemonicParsing="false" onAction="#addCard"
+					text="%builder.toolbar.addCard" />
+				<Button fx:id="removeButton" mnemonicParsing="false"
+					onAction="#removeCard" text="%builder.toolbar.removeCard" />
+				<Separator />
+				<Button fx:id="showMageButton" mnemonicParsing="false"
+					onAction="#showMage" text="%builder.toolbar.showMage" />
+				<Separator />
+				<ProgressIndicator fx:id="progressIndicator"
+					prefHeight="3.0" prefWidth="21.0" visible="false" />
+			</items>
+		</ToolBar>
+		<!-- Content ==================================================================================================================== -->
+		<VBox fx:id="wrapper" VBox.vgrow="ALWAYS">
+			<HBox id="MainBox" fx:id="mainBox" VBox.vgrow="ALWAYS">
+				<StackPane fx:id="leftStackPane">
+					<children>
+						<VBox styleClass="LeftBox" id="StartupBox">
+							<Button fx:id="newSpellbookButton" text="New Spellbook" />
+							<Button fx:id="loadSpellbookButton" text="Load Spellbook" />
+						</VBox>
+						<VBox styleClass="LeftBox" visible="false">
+							<Label text="%builder.mainpanel.spellbook.title" />
+							<SpellbookTable fx:id="spellbookTableView"
+								VBox.vgrow="ALWAYS" />
+							<Label text="%builder.mainpanel.optional.title" />
+							<SpellbookTable fx:id="optionalTableView"
+								VBox.vgrow="ALWAYS" />
+						</VBox>
+					</children>
+				</StackPane>
+				<CardTableView fx:id="tableView" HBox.hgrow="ALWAYS"
+					maxWidth="Infinity" minWidth="400" typeCol="true" schoolCol="true"
+					subtypeCol="true" />
+				<VBox id="RightBox" fx:id="rightBox">
+					<HBox>
+						<ImageView fx:id="cardView" fitHeight="495.0" fitWidth="329.0"
+							pickOnBounds="true" preserveRatio="true" />
+						<VBox style="-fx-spacing: 10px; -fx-padding: 10px;">
+							<HBox>
+								<Label styleClass="rightLabel" text="%builder.mainpanel.cardInfo.sp" />
+								<Label fx:id="curSpLabel" text="X" />
+							</HBox>
+							<Button id="ErrataButton" fx:id="errataButton" disable="true"
+								text="%builder.mainpanel.cardInfo.errata" onAction="#showErrata" />
+							<Button fx:id="tipsButton" disable="true"
+								text="%builder.mainpanel.cardInfo.tips" onAction="#showTips" />
+						</VBox>
+					</HBox>
+					<TabPane tabClosingPolicy="UNAVAILABLE" VBox.vgrow="ALWAYS">
+						<Tab text="%builder.tabpane.filterHeader">
+							<content>
+								<VBox id="FilterBox" styleClass="Tab">
+									<TextField fx:id="nameFilterField"
+										promptText="%builder.mainpanel.filter.nameFilter.prompt" />
+									<ComboBox fx:id="typeFilterBox"
+										promptText="%builder.mainpanel.filter.typeFilter.prompt">
+										<cellFactory>
+											<TypeComboFactory />
+										</cellFactory>
+										<items>
+											<FXCollections fx:factory="observableArrayList">
+												<Type fx:value="CREATURE" />
+												<Type fx:value="EQUIPMENT" />
+												<Type fx:value="CONJURATION" />
+												<Type fx:value="ENCHANTMENT" />
+												<Type fx:value="INCANTATION" />
+												<Type fx:value="ATTACK" />
+											</FXCollections>
+										</items>
+									</ComboBox>
+									<ComboBox fx:id="schoolFilterBox"
+										promptText="%builder.mainpanel.filter.schoolFilter.prompt">
+										<cellFactory>
+											<SchoolComboFactory />
+										</cellFactory>
+										<items>
+											<FXCollections fx:factory="observableArrayList">
+												<School fx:value="NATURE" />
+												<School fx:value="WAR" />
+												<School fx:value="DARK" />
+												<School fx:value="HOLY" />
+												<School fx:value="ARCANE" />
+												<School fx:value="MIND" />
+												<School fx:value="FIRE" />
+												<School fx:value="WATER" />
+												<School fx:value="EARTH" />
+												<School fx:value="AIR" />
+											</FXCollections>
+										</items>
+									</ComboBox>
+									<Button fx:id="clearFilterButton"
+										text="%builder.mainpanel.filter.clearFilterButton" onAction="#clearFilters" />
+								</VBox>
+							</content>
+						</Tab>
+						<Tab text="%builder.tabpane.mageHeader">
+							<!-- add content -->
+						</Tab>
+						<Tab text="%builder.tabpane.noticeHeader">
+							<TextArea fx:id="noticeArea" styleClass="Tab" />
+						</Tab>
+					</TabPane>
+				</VBox>
+			</HBox>
+		</VBox>
+	</children>
+	<stylesheets>
+		<URL value="@/stylesheets/mainStyles.css" />
+	</stylesheets>
+</VBox>
+
+

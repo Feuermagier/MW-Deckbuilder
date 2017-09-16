@@ -1,0 +1,66 @@
+<set id="">
+	<cards>
+		<card id="" type ="">
+			<meta>
+				<octgn></octgn>
+				<tags>
+					<tag></tag>
+				</tags>
+				<roles>
+					<role></role>
+				</roles>
+				<count></count>
+				
+			</meta>
+			<subtypes>
+				<subtype></subtype>
+			</subtypes>
+			<mana></mana>
+			<schools relation="">
+				<school name="" level="" />
+			</schools>
+			<action></action>
+			<range min="" max="">
+			<target></target> <!-- Nur für programmatische Auswertung, kein normaler Text!-->
+			<stats>
+				<armor></armor>
+				<life></life>
+				<defense minDice="" times="" against=""/>
+				<manaCollect></manaCollect>
+			</stats>
+			<attacks>
+				<attack id="" action="" type="" damageType="" zone="">
+					<dice></dice>
+					<effects>
+						<effect min="" max=""></effect>
+					</effects>
+					<attackTraits>
+						<attackTrait></attackTrait>
+					</attackTraits>
+				</attack>
+			</attacks>
+			<onlyFor></onlyFor>
+			<traits>
+				<trait></trait>
+			</traits>
+		</card>
+	</cards>
+</set>
+
+
+
+<card id="9217f8a0-e46d-401e-b8b6-477100eaba54" name="Lightning Bolt">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Lightning" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Creature or Conjuration" />
+			<property name="School" value="Air" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Lightning] [Dice=5] [d12] [6-7 = Daze; 8+ = Stun] [Ethereal]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1A07" />
+		</card>

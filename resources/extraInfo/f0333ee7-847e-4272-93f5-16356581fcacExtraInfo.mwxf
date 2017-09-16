@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="lostGrimoire">
+  <card name="Sunfire Burst" id="12b4093d-a53b-47df-9680-bd6c4b7a738d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Altar of Infernia" id="300a8572-1e18-4d74-86ef-2d1b901455b3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Ballista" id="33face5c-acab-4e42-901a-031c1ab177fe">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Meredia's Blessing" id="3941d7e1-f8bc-4bdd-bcef-e9cc76682c30">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mind's Eye" id="3c047679-3feb-4842-b82a-7e00ba0dcebb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Wall of Poison Gas" id="3f55236b-06d9-48da-97d6-fc56994846f1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dwarf Kriegshammer" id="442aae8e-4422-4ddd-badb-ce0d87cc05d4">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Fire Elemental" id="4974f847-9a19-4f09-b9a9-c48c05dfca89">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Joseph Trublood, High Cleric" id="4a374284-4e19-440c-afb7-adf6bb180e2a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Kumanjaran Leopard" id="4b154fc4-f08f-4aa8-892a-7ae13d5e245c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Magma Golem" id="4ccd0ff7-c165-4b46-9854-ba1376e74087">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Messenger of Bim-Shalla" id="4ffa472f-ea22-4d6b-a475-94ef598929ca">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mountain Ram" id="52be10a8-190c-4238-b33e-e1fddc38ef52">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Titanodon" id="61577da5-85e0-46b2-b675-eb1e367e3cea">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Unstable Fire Imp" id="74b0418a-ccdc-47ca-843f-905db461f055">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Woolly Rhinoceros" id="780a366e-c7a6-46bb-9138-a796425d8db6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Circle of Light" id="8330e07a-96af-40fb-8bb2-affccb19fb71">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Confusion" id="884a84c5-77ef-4e5d-a456-91f969ed768f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Critical Strike" id="8cf3049d-0104-4370-83d4-cf2477daca22">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Demonic Bloodlust" id="94eab443-1411-4ec3-889a-3d43ad08cd9b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Summoning Circle" id="980e2a78-e294-418a-b72d-22d328205716">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Chitin Armor" id="b0087760-c365-4f68-bb93-8da91c040eb3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Gloves of Skill" id="bae26a9c-1163-4db0-a277-6480e320f6df">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Hunting Spear" id="c64e961f-3ff0-453b-a71e-930bed3aa2cb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mordok's Tome" id="ce27bbd2-0c68-4190-94c5-897e6269cc3c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Spiked Buckler" id="d0676193-21b6-457f-b176-ae43c5bed032">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Vorpal Blade" id="d4e9c61f-bc73-4d67-92a3-274d704cced8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Waterfall Cloak" id="dfe1e965-0a13-4ad5-8edb-d9f6640e2c12">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Clear Mind" id="efae5178-e715-42f2-b4e1-09bf61bf93f9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+</extraInfo>

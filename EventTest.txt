@@ -1,0 +1,5 @@
+name=FirstTurnier;
+date=03.07.2001;
+mode=Mage Wars Arena, Mage Wars Academy;
+promo=MWPROMO01, MWPROMO02;
+language=de;

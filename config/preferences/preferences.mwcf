@@ -1,0 +1,4 @@
+checkSets = false
+checkPromos = false
+usePromos = false
+onlyEligible = false

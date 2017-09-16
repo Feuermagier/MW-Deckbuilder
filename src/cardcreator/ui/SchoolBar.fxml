@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.cell.*?> 
+<?import javafx.collections.*?> 
+<?import application.builder.School?>
+
+<HBox xmlns:fx="http://javafx.com/fxml/1">
+	<ComboBox promptText="Schule">
+		<cellFactory>
+			<application.view.mainpanel.filterpanel.SchoolComboFactory />
+		</cellFactory>
+		<items>
+			<FXCollections fx:factory="observableArrayList">
+				<School fx:value="NATURE" />
+				<School fx:value="WAR" />
+				<School fx:value="DARK" />
+				<School fx:value="HOLY" />
+				<School fx:value="ARCANE" />
+				<School fx:value="MIND" />
+				<School fx:value="FIRE" />
+				<School fx:value="WATER" />
+				<School fx:value="EARTH" />
+				<School fx:value="AIR" />
+			</FXCollections>
+		</items>
+	</ComboBox>
+	<TextField promptText="Level"/>
+</HBox>
+

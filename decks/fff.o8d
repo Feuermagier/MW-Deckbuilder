@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="9acef3d0-efa8-4d3f-a10c-54812baecdda" sleeveid="0" mode="Mage Wars Arena">
+  <section name="Mage" shared="false">
+    <card qty="1" id="2b2ab8c5-65c0-4a49-8fab-e01e7d2c145f">Beastmaster</card>
+  </section>
+  <section name="Attack" shared="false" />
+  <section name="Conjuration" shared="false" />
+  <section name="Creature" shared="false">
+    <card qty="1" id="2afa74eb-129c-4314-b2d9-81960578f1c8">Broken Wing Angel</card>
+  </section>
+  <section name="Enchantment" shared="false" />
+  <section name="Equipment" shared="false">
+    <card qty="1" id="8a1b4d7b-83d0-4b5d-9751-68acdb065fc7">Colossus Belt</card>
+    <card qty="1" id="1db6906f-12ec-4538-8d1e-534a7beb81d4">Dancing Scimitar</card>
+  </section>
+  <section name="Incantation" shared="false" />
+  <notes><![CDATA[hhhhiiiii]]></notes>
+</deck>

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="paladinSiren">
+  <card name="Luminous Blast" id="fbc5533d-ab11-4625-9667-7aa848bbf58d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Swell" id="902698fd-2ca5-4bca-bc08-3d94686cbf19">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Tsunami" id="d5d3c955-2e93-4c4d-8173-89c1701675d3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Bed of Urchins" id="986eea59-34dc-4150-8c63-9c859783929a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Crusade Banner" id="b79e9334-a55e-4ce6-b366-1029ebe6917d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Temple of Meraveran" id="ea9335e0-8d99-429e-a055-f370b552ed26">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Malakai's Basilica" id="f98c74f2-8acd-4dae-973f-2cee5509f41a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Pillar of Righteous Flame" id="a482c083-20d2-46d8-9dbb-83e8405b2aea">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Whirlpool" id="837ef959-dab8-42b1-9bb9-4678efe2ad47">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Wreck of the Viridian Lace" id="aa2b21a7-fb96-44c9-a2e9-f11389611b5c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Coral Barrier" id="98f6f10c-267d-451d-bb11-7d149c8d0f9c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Consecrated Ground" id="4db00fb0-3444-49c7-9a5a-25bac97e290e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Elephant Grass" id="ddc2f76f-846c-4509-be8a-a7ead331a6ab">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Shallow Sea" id="5ddf5771-870a-435d-a169-19604b8f5706">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Steep Hill" id="6e57accb-771a-4476-90ef-ee35aa736cd4">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Swamp" id="2d064201-ca75-4f33-b015-c7bfe44eda4b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Artemis, Dawnbreaker's Eye" id="80245974-e200-4887-8763-61b7eeff9f2a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Blightheart" id="d6585389-66a4-4d31-93a9-f55cbc411a56">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Alandell, the Blue Knight" id="cf0d8e35-24e6-4183-9243-ab9ae705703f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Cassiel, Shield of Bim-Shalla" id="0eaf67cf-6b23-4e9c-906b-383fd6bd1e07">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Colossal Crab" id="994a9a7e-9380-4fab-a59c-44630902abe1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Crusader Griffin" id="0bd874fa-f08f-41bd-8857-4a99ecb8ae5b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dawnbreaker's Initiate" id="45a105e6-a839-4e6f-a0ac-59320683c26a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Deptonne Berserker" id="c53cc69d-d104-435b-bd30-873269b0d237">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Deptonne Bloodshaman" id="2586d903-5bae-4df4-b81a-d884eb82ccd3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dorseus, Stallion of Westlock" id="83f70996-9bc9-4290-8f78-6cb6f5e69b71">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Drokkar" id="04544cd8-a833-4940-ab24-0802230cbfe2">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Eligor Larington" id="3da53bb4-fef7-421e-b6c8-99df185f2914">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Gerard Matranga" id="d7ad8972-ee17-4588-8978-f8c7130e1cc4">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Knight of the Red Helm" id="a15cfb56-c7a8-45b6-8b60-931d5d50d9e0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Kraken" id="db090651-c57b-4b03-973d-2e1fffa6f1b0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Light of Dawn" id="e6fe44d6-174e-4d6b-8a65-450d3efe9667">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Merren Harpooner" id="cb6cda55-d8a5-4a46-bb83-c91aff177023">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Metatron, Angelic Templar" id="608fd102-04f4-4d11-b4a8-5108e91fa871">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Naiya" id="4c6d7c69-13c4-4dfe-9452-0d75ab2347f4">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Noble Vanguard" id="76339700-716d-42f7-b265-e7f3c12e0f12">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Shoalsdeep Crocodile" id="c1ef7821-662d-43c7-b0e5-e6a5a09bb1d9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Shoalsdeep Thrasher" id="d44afeb5-76ac-4d0d-863c-7281ba581475">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Shoalsdeep Tidecaller" id="c157cd2e-4e2d-411a-9a37-5e952256b1c9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Temple High Guard" id="f3aeaa12-ed03-4237-9287-74751c22f238">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Turghut" id="4b0e7bf5-e433-4f9d-b161-593b8aa07ddb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Water Elemental" id="b9ced997-b7fb-4cef-9f57-7264f3fea633">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Blind" id="327c59fe-1cab-4f4e-8145-31db7d3b8989">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Drown" id="80dca5bb-9162-4876-833b-a80687e0589b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Eye for an Eye" id="d9830ac6-81d1-4f78-b0c4-7c94cea29733">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Healing Madrigal" id="40a892b7-ef42-4242-8e2f-68dfaa75b98b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Ballad of Courage" id="d0ffcf7a-6a98-4028-80d1-5cd2ad708c2a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Hydrothermal Vent" id="12dda20e-f593-48d0-b31e-eef6ff240faf">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Knight's Courage" id="d29324b6-58d4-42d3-8ccd-d9df42b91d4a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Life Link" id="7d30fdf8-a1d1-47cd-9c58-2eda8621055b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Lullaby" id="dd5b9000-b173-44bb-bce8-8b81ae35d09b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Chant of Rage" id="81f50147-da6b-4ad3-8e41-7ea49d6d7d4f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Song of Love" id="e5ddd1db-e578-4647-b3fa-c75d55f1171c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Signet of the Dawnbreaker" id="ff9058e5-0347-4fe6-a955-4e2d24cd7107">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Champion's Gauntlets" id="e907ba99-6cb5-4954-a61e-6359378c391f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dawn's Bastion" id="3ed81c7f-e02d-483e-8134-3169ab51d5e6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Helm of Justice" id="e8bcb017-6e30-4893-94de-81fef6437659">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Leviathan Scale Armor" id="6241c1f5-66ff-44ec-88d1-24b0f7660e0e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Paladin's Cloak" id="b531cb09-e8cd-41c5-869b-e71136764219">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Radiant Breastplate" id="1d471db4-abb6-4638-9f2b-b2b501ecf61c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Ring of the Ocean's Depths" id="a79b93ae-48d1-4836-b1ce-08124bdb3bf1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Ring of Tides" id="44e16242-5bbf-479a-b92a-aba214250795">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Shoalsdeep Trident" id="e13ebde8-a2fa-49a0-b69a-ca844a41f015">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Steadfast Boots" id="3829b796-539f-4389-bc71-e03581896913">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Sword of Radiance" id="6bbd7b17-4b41-4d47-989c-aff6290f8ac8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Echo of the Depths" id="6dc4c536-39c3-4f0d-83f8-1a4cc5874e9b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Voice of the Sea" id="c6dbbc2d-f0d7-4d82-b387-726c1b060ae3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Martyr's Restoration" id="3401ad6d-e87f-4775-a573-3398cb348fd1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Lesser Teleport" id="da622c97-c498-450b-94bd-a8546d4bdc0f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mending Wave" id="efe9ca2d-9894-4e13-b733-3088963670be">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Overextend" id="b25450be-9922-4dba-9d89-244254749195">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Smite" id="6a624136-aa0f-46bb-a4a9-8758b96bb8ae">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dissolve" id="cb4e9753-09d9-4fe2-8ee8-9a69590934be">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dispel" id="9fe70da8-45c7-4319-8e3e-085e8872186a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+</extraInfo>

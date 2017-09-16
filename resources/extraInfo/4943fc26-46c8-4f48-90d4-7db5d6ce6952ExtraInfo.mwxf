@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="kumanjaro">
+  <card name="Surging Wave" id="a1de2c11-60ab-42b5-99d5-752f5cb85770">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Bridge Troll" id="97a1bcd1-5702-4ad6-87f9-7977901b4d02">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Dire Wolf" id="7add1431-cfce-4c3e-b7bc-88cf0c126e9a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Dwarf Panzergarde" id="6122329b-8107-4d1a-a322-52311bd11a60">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Galador, Protector of Straywood" id="6ea8364e-2843-4649-af14-44ebedeeb41e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Gargoyle Sentry" id="600817a2-1dc1-4ac8-bb73-838afbb8b929">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Giant Wolf Spider" id="b6003a5c-e5ec-46fe-921f-1b1d02b2e48e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Guardian Angel" id="dcc3b017-d4f4-479f-83c4-6597f06a2cce">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Makunda" id="a47455b5-caf0-42c0-9e3c-5945a108767d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Screech Harpy" id="1f8f30b7-8d0c-4350-ae4f-0616df0abc88">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Enchanter's Wardstone" id="c9fd02fd-f37f-4c1d-88f2-bf3a7bae0e8e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Wizard's Tower" id="dbe14006-e729-4f6e-90f9-89eadb863a91">
+    <role value="" />
+    <errata url="WizardsTowerErrata.html" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Wall of Steel" id="a7287ca4-7c90-42aa-9c86-c8a6bedc286b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Armor Ward" id="97da4784-8449-434a-931e-32f3fc93af43">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Divine Might" id="d93bcebb-5798-4e16-9d48-b41e0c3cab75">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Enchantment Transfusion" id="4adafa93-0231-4956-9041-f7eef728e5f5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Healing Charm" id="f3974912-fc35-4007-98e0-14bdddfe3e0c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Spiked Pit" id="8cfdf60f-2a11-4b9b-a6b8-1338ef7f6179">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Colossus Belt" id="8a1b4d7b-83d0-4b5d-9751-68acdb065fc7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Dispel Wand" id="e128dbb9-3fad-49af-91ad-eb9dbfbb1802">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Eagleclaw Boots" id="c4daa855-667a-4211-8970-5b210eeb145d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Hunting Bow" id="590146ae-4e92-4d85-abf9-4f6520cfb8d6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Reflex Boots" id="f43f1435-b902-4d89-8feb-f69f34fac492">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Sunfire Amulet" id="0f9291dd-f242-47e7-8053-e8382dc614b8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Akiro's Battle Cry" id="41138f05-1492-444a-b4e0-888247b95349">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Drain Soul" id="7bc8847c-fee8-484f-a7f5-9f649e958087">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+</extraInfo>

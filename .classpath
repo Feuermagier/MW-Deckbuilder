@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Firemage"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-1.2-api-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-api-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-api-scala_2.10-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-api-scala_2.11-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-core-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-flume-ng-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-iostreams-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-jcl-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-jmx-gui-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-jul-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-nosql-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-slf4j-impl-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-taglib-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-to-slf4j-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/log4j/apache-log4j-2.7-bin/apache-log4j-2.7-bin/log4j-web-2.7.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Java/eclipse/workspace/BuilderNew/lib/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/MySQL/mysql-connector-java-6.0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

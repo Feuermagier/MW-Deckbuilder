@@ -1,0 +1,29 @@
+
+#CreatureLabel {
+	-fx-background-color: rgba(222, 184, 135, 1)	
+}
+
+#EquipmentLabel {
+	-fx-background-color: rgba(211, 211, 211, 1)	
+}
+
+#ConjurationLabel {
+	-fx-background-color: rgba(117, 142, 51, 1)	
+}
+
+#EnchantmentLabel {
+	-fx-background-color: rgba(255, 228, 196, 1)	
+}
+
+#IncantationLabel {
+	-fx-background-color: rgba(230, 230, 250, 1)	
+}
+
+#AttackLabel {
+	-fx-background-color: rgba(255, 228, 255, 1)	
+}
+
+#UnknownLabel {
+	-fx-background-color: inherit;
+}
+

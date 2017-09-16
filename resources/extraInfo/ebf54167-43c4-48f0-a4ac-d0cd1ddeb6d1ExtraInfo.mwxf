@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="spelltome1">
+  <card name="Lightning Bolt" id="9217f8a0-e46d-401e-b8b6-477100eaba54">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Thunderbolt" id="f214db3b-3583-4e9f-b09b-3abb0481efbe">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Fireball" id="d8562a1d-6a95-4ca4-99aa-91c5ca769a33">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Jet Stream" id="effa9ea8-3cf2-4efe-a83f-6f920c8faa22">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Pillar of Light" id="d661f9e7-c9b5-4913-b809-e9fda8606c2b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Wall of Thorns" id="6444b6f4-ae19-45b7-8855-a1dd96ba6bab">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Wall of Fire" id="4223e20b-75b1-4f21-938e-a4a8acf06195">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Hand of Bim-Shalla" id="804e971e-0b45-4198-bf12-ff71c7d43b05">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mana Flower" id="782de4d1-61aa-4efa-baf1-99df5688704e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mana Crystal" id="9efdd1ac-d30c-4773-9ccd-f916470f4861">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Fog Bank" id="ca4dc7c2-6172-46fe-9a2d-a22a66214615">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Rajan's Fury" id="c202e960-7279-412a-b539-af007cc6d538">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Tanglevine" id="2380dfaa-3339-4fd9-b927-91aa7a30019d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Wall of Stone" id="b318bb77-75c5-4e7a-9347-dbdcbde55f33">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Temple of the Dawnbreaker" id="177abb85-6437-4e91-8ebb-7df1c9103c06">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Animal Kinship" id="0d5dd26c-5ff4-4678-8ad4-8bcdf4107085">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Tooth &amp; Nail" id="a239d7aa-4e81-4a4e-b447-cc3202bb5bad">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mountain Gorilla" id="b49212c1-f912-441b-b63f-9f9e415c2d00">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Bitterwood Fox" id="87cb82db-2f99-4227-8447-72cffba636dc">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Blue Gremlin" id="64ac6979-be87-4a71-b840-c60fade56a13">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Darkfenne Bat" id="bd1f7bbc-4a61-4006-a1d8-a5cbd78799db">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Firebrand Imp" id="d6769d21-6095-43b4-a5c3-cbfd6c5f9436">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Flaming Hellion" id="4ed5ed50-3c2a-4513-ae98-c954766e5a79">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Gray Angel" id="8bd0df13-3dc5-4ff1-888e-e36beb073902">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Asyran Cleric" id="8963689f-6703-417d-aeda-64cbb9dab440">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Royal Archer" id="38380818-d4ca-45b4-a13e-d85d7683c25a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mana Leech" id="ad3b90cf-5a53-4541-903f-4b0cfe397f64">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Moonglow Faerie" id="057affb5-b19a-4de0-b75a-abc5451897df">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Necropian Vampiress" id="a69231c7-9c7a-4b15-a432-275aeaf4bfed">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dark Pact Slayer" id="a0eb52c1-e93d-40a5-aafe-3e4e0d5c6b3b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Skeletal Sentry" id="0d9b07c9-5d2b-45fa-9e69-6f371293f883">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Thunderift Falcon" id="d83c084a-1757-4402-98cb-443958e22f54">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Timber Wolf" id="434d1870-d8bb-4362-aa21-415d4843e839">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Feral Bobcat" id="acfc7da8-49f0-45f0-ab19-e7ccd124711f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Whirling Spirit" id="ec0215f9-dcc4-4df6-98f9-25e789a21a51">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Eagle Wings" id="f7fee204-8053-446d-b85d-c8d07e70d4fd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Agony" id="9527b6ab-5931-40ec-99ac-bb0d03c3bce6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Reverse Attack" id="732f4d7f-0cf6-4393-9446-b9360c8f18e3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Bear Strength" id="8df84f88-e24a-4517-aae5-8595c09cc3cd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Pacify" id="22a8931e-1c99-44dd-bfb1-ad56e91fb361">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Block" id="25d70640-eea1-4429-b146-4d176b493e41">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Poisoned Blood" id="52758d34-ee4f-46cd-bb00-6f9bc5edd553">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Enfeeble" id="20b2deab-90f3-4a9b-83b4-ad83129ec14c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Essence Drain" id="00cfd5d8-8fa8-4db5-b4df-6f5bae378d4b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Hawkeye" id="8c9e5e56-a9a9-4077-92c1-f35123ee4c64">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mongoose Agility" id="4d939439-345f-4005-9f35-b95d5a41f70a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Maim Wings" id="6fa6c0f1-d187-47ed-8285-4d40aeb49207">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Ghoul Rot" id="660cd33f-8812-48bb-a513-2ada886a0320">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Divine Protection" id="58b52bf5-816a-4342-b1b8-a37f16daa49f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Harmonize" id="f5d06493-1929-4d1f-9bcb-756339ccf23e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Sacred Ground" id="39d0a0a1-154d-4e33-9af0-937f0b98465c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Hellfire Trap" id="22fe0c48-f14e-4d31-b5ff-4013a4245071">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Circle of Lightning" id="0574a699-e012-4b4e-9c68-1b5f02f05c8a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Force Hold" id="aeada61e-e636-4c46-b169-833162a13b93">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Force Orb" id="7fe6a6b2-4403-4a07-8048-4692d954898a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Force Sword" id="77b5e9a1-9824-40a5-95e9-2f669a01a5c8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Reverse Magic" id="5f318366-9c85-4304-b7b1-3c60daf0edde">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Regrowth" id="76d440be-b82c-4a12-97ef-c2bad86fdc1a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Rhino Hide" id="afd1e927-92a2-4525-a33f-50fec7c9b382">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Bull Endurance" id="b4c5b374-da35-482f-9ef1-594a39de116e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Decoy" id="ed610a8f-e3f2-4d3e-8db6-5d85c42afb4b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Teleport Trap" id="f6a5cb45-a9ec-4e4a-858f-60a48d88b7ab">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Marked for Death" id="2d94d69e-5c08-4db2-89a0-5c811bfaca17">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Vampirism" id="b981c228-b1e5-4318-a7ec-444c647eed87">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Retaliate" id="24b63480-3272-4f93-b576-48710d5bedaa">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Jinx" id="7bc882f8-d7d0-4c70-b40f-2cbc844e3579">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Turn to Stone" id="6c1dde62-0d1d-429a-ae53-af492e964f8d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Nullify" id="81c93236-8b3f-41fd-9210-89a9498ecfce">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Deflection Bracers" id="0c8d6e31-5e59-454c-a7e0-0d3118f0cead">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dragonscale Hauberk" id="66582dca-63bc-4b49-bbcd-add00a57cf11">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Elemental Wand" id="469d4201-ec88-4f13-a8dc-f11b48e3df4b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Regrowth Belt" id="983a31d2-4e37-441d-a39e-3088f9b3d84c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Gauntlets of Strength" id="1257b363-d905-4ebe-94c8-cd220565b28c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Ivarium Longbow" id="86e3fd4a-e52d-4ccd-9b33-333a13126ac8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Leather Gloves" id="a6a267f1-a2ec-4264-aaff-85b40c0a68dd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Leather Boots" id="5a07689a-9edc-4366-9d70-6eecf5f4447d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mage Staff" id="fabfda9b-1168-4b3b-9f2b-c5ead9215b81">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Mage Wand" id="86d43008-5faf-4eaf-a66a-cdd985f45d5f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Charge" id="78846d18-04ca-4fc8-b3e1-bc22003a92a8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dissolve" id="87fb7a11-c77d-4503-a66c-659ddd6ad100">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dispel" id="2753eeea-2130-4399-ae88-f96ed1ccf776">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Piercing Strike" id="dc3cd8bd-9867-4dde-99a2-911d3ca69b67">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Rouse the Beast" id="4f78b672-2c43-4979-8a3b-0bb2e3e8e1a2">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Group Heal" id="f3c06b0f-69ac-40ba-8d78-632c5f89505c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Heal" id="5c2d7a57-f15c-44a9-9dc8-9393056d9e55">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Battle Fury" id="a1959fe8-780f-4720-a446-0c2f999e2df2">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Drain Power" id="59b650aa-2e7c-42bb-b7b5-4c7a938b2b4b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Drain Life" id="ffda5f70-74ef-40d8-9da5-f848c2447615">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Force Push" id="9455c697-f680-4d12-b5d6-72235c03f77c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Purge Magic" id="d40a8aa6-93d7-434b-b855-94e960a3553f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Knockdown" id="70840eb1-9d97-4eff-bba2-1b23ef72d9db">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Perfect Strike" id="9100e9fa-f1b0-47de-95b2-52cd795e97ea">
+    <role value="" />
+    <errata url="1" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Purify" id="59cd1ea8-72d8-4ce8-90f9-1513ef6940ae">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Call of the Wild" id="5d5025e2-8e1a-4694-9845-fd944cc37b92">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Sleep" id="d781b3a9-4c77-47c0-a899-0067fbafe856">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Minor Heal" id="96719b92-1dd5-4a7e-b7eb-574464feeca8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Explode" id="90e866bf-64db-4199-ba5f-3364eecaf7ce">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Seeking Dispel" id="3aaab9ab-7dbf-4694-b3cb-fc7e4710bad3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Teleport" id="b969cb2f-6f0b-4d89-8839-511aab891c0d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Vampiric Strike" id="b0624cd4-8802-4e9f-8e1d-869638c3b861">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Banish" id="4229008c-e836-49a4-94a6-220d04851ebb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Evade" id="965bddc4-b43e-4f90-bc05-8bd602d7c33d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Steal Enchantment" id="be358e54-8996-43cb-8aad-6ed879bbdbb7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Shift Enchantment" id="daf6a859-cc1a-48a8-bbfb-79365761acee">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+</extraInfo>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="academyPriestess">
+  <card name="Dazzle" id="1a6d6ac5-11ba-4ac5-bac3-707893f925aa">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Aurora Lucere, Dawnbreaker's Chosen" id="23825fa1-d189-48b0-bd5e-e6c6e3ee786f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Broken Wing Angel" id="2afa74eb-129c-4314-b2d9-81960578f1c8">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Disciple of Radiance" id="34c042f0-f9d8-4a49-b73a-7913be56577b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Ehren, Enduring Paladin" id="3648ad82-1729-4e29-9063-c36983d10897">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Gloranna, Avenging Angel" id="374c34af-bfef-4047-a2e2-584a87cd978d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Lowland Unicorn" id="42178587-5e41-48db-98e1-a1edd6a1f7a7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Meditating Monk" id="4c1bdfe7-083f-4956-a3f0-00e09027d4e9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Temple Sentry" id="501bdfe7-083f-4956-a3f0-00e09027d4e9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Temple Sharpshooter" id="5300ad83-f297-4ed2-8b4d-3a4b96ed3610">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="White Cloak Knight" id="58a453b5-f282-4fa1-8ee1-67005401a980">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Asyra's Touch" id="606e0886-428c-4761-9dd8-a97ed48f71d0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Blessed Focus" id="6369bcbb-84cf-4c07-a471-d866a77d936e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Circle of Protection" id="67f5b9fd-23ea-4f8a-94c2-ccc9ca2c96b6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Gator Toughness" id="7111c9e3-cea0-47e5-847a-8d7420aa4e5b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Glancing Blow" id="735fb53d-48ab-4293-b431-084c6aa99d49">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Paladin's Valor" id="79fef38c-4785-430b-8dc8-95bd7c8459d1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Restore" id="7b1645c9-5815-4c05-850d-1d89c4a7f8bd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Second Chance" id="841d0f78-ea2f-4372-9f3c-e77b3c2a9c26">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Slumber" id="8bb16e9f-c42b-4a8c-9dbd-08441a4f7e92">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Asyran Robes" id="923b4488-486d-44c0-8c21-dd4f2c77a014">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Faith Healer's Staff" id="997b853d-89bd-461a-8dad-73edacd5b4ae">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Resplendent Bow" id="a781730e-e7e9-4885-b2d8-9c87b47c05c3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Crumble" id="b071d7d1-b9c5-4ab4-b542-0889f795b0d0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Cure" id="b5707414-ecdb-4b65-9d6a-b7f0e1ae409c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Disperse" id="b6d65d21-0bb0-49b3-89c0-fe5b0f7f329c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>academy</tags>
+  </card>
+  <card name="Mend" id="ca7f7a43-288e-4653-b593-e6d857275c7e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Remove Curse" id="db1df456-3d70-4514-81dd-0e6e5728ccc9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+  <card name="Reveal Magic" id="de2b8c17-6502-4ec2-9a46-857d924275c6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+    <tags>academy</tags>
+  </card>
+</extraInfo>

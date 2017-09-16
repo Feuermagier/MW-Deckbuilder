@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="Promo">
+  <card name="Acid Blast" id="d549a998-ff11-4568-b75c-d5442de3e9c6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Sunfire Burst" id="5cd5afd0-f8a7-4c32-9114-785ce1aaafb7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Asto Vidatu, Angel Slayer" id="57355673-ff5f-4ac6-8d78-2a89c8791ee5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Bloodwave Greatbow" id="58e2b7cb-33b8-40bc-9861-b2dc10ddb4ea">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Death's Head Scorpion" id="d7076396-cb62-44c5-b3ba-2d344f205fb5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Royal Armorer" id="40246b78-2dcf-459a-b4dc-743f303d5555">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Screaming Zombie" id="521bba26-0570-4dee-81a0-ce4cc97161c6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Servant of Malacoda" id="62634b98-2b61-4f3d-9048-7da1f4592fb1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Silverclaw Ratel" id="7e6743ff-19e8-400e-9aae-ca6252c0dc97">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Dragonclaw Wolverine" id="d7236c40-8918-4391-b8ea-46dab8cac9d5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Dwarf Kriegshammer" id="36f427c9-a678-45de-a099-db291e9db6b4">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Eekamouse" id="cb4358c4-1b2e-42ab-af13-80cbe1f3a260">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Fire Elemental" id="4d68d973-aa67-448f-b244-8aee05089205">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Joseph Trublood, High Cleric" id="bf25b529-cd16-46ec-b820-e5935992bcf1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Kumanjaran Leopard" id="73b104ed-5fec-46c2-a8fc-a64ae20f23b2">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Lightning Beetle" id="b54089c7-7d6b-46db-b5bc-83477eb9af07">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Magma Golem" id="c50062c9-1ee8-4b5d-90a9-ffeff230089d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Messenger of Bim-Shalla" id="e4eb8e8f-449c-4bd1-9da4-86832be1dde3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Mountain Ram" id="4c2baceb-b4bb-4118-869b-b9f3e6dc000d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Pharaoh's Cheetah" id="485f6711-aae1-4408-8cc8-6ac421c541b7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Unstable Fire Imp" id="f03bbaea-edd6-4230-87d0-817610ff68d5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Victorian Griffin" id="6cbc50f5-d807-4f1c-984e-ece07ce6ebf9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Alfiya, Noble Enforcer" id="937889d7-9b61-4048-9079-b53aba148b04">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Sherean Leviathan" id="197c7cd4-6a1f-47dc-b407-e5922406ae33">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Altar of Peace" id="5a6c0937-b7fb-4c68-a854-7e7d6dce4b3c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Ballista" id="18b08e7f-4d82-4bcf-8a0c-fdf83b4683ac">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Hidden Tunnels" id="b0a9a73a-4de7-4e14-b922-f859d66bbe96">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Wall of Poison Gas" id="2309d5a7-b49a-42ce-baa1-ca86a86c25dd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Bind Spirit" id="11ac648e-7c45-4a33-ac33-3cfb8c7bb6d7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Blur" id="1b90a2b2-c916-4e3a-9ed7-c037a5e3cc36">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Circle of Light" id="29121772-6f18-41ec-9add-87712e5f86ec">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Cowardice" id="884dab20-a76b-437c-91e6-9365b56dafeb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Miss" id="9b8e2bbc-4140-48c3-a7b3-5e7f078592fb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Sanctuary" id="a1517dfa-7411-4fe0-ac15-2ff9973b1dea">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Stench of Death" id="b51e24dd-df09-49cd-af3c-0873f10646ad">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Critical Strike" id="ccc78522-653a-443d-9c36-5be3eb96f1e1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Debilitate" id="ccba65d6-3b9a-484c-9517-ff7b3ef5cb21">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Mana Vampirism" id="c710760d-6f2e-4b59-a349-2792f2af02b6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Reinforce" id="ea25707a-6947-47cc-9f85-7905246f92c1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Summoning Circle" id="82956c06-e294-4d3e-bf84-7d6c56dcbb2c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Ankh of Asyra " id="e7700c22-26e9-485d-b74f-7c06f58321a7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Chitin Armor" id="5adeed7f-a23f-46f9-9d3a-2d697a8b6855">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Elfric's Life Ring" id="b070db04-d9b8-4f10-81cb-09feec6f73d1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Gloves of Skill" id="8fdefc7f-f6c8-4b63-98fe-76699d00c1e7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Heart of Gravikor" id="e0a9c95c-c435-48d2-8c2f-235aefe82265">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Leather Belt" id="810a99dc-31e7-4b89-8245-43a36e69ccde">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Mordok's Tome" id="47f776f7-0abf-46f3-8279-e1cdde8ad0cd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Ring of Healing" id="da6a068d-ea92-4655-9095-7f9878df711f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Spiked Armor" id="a5170083-ad05-4e98-84a2-a14aecfdc463">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Spiked Buckler" id="79692c1d-4dc8-4c84-9c04-9ad47d797bd6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Staff of Storms" id="eecd62c9-300c-4a7c-bef3-a57555b89bdc">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Vorpal Blade" id="105b2ac7-86ac-42e3-9931-a40d39b28d3b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Clear Mind" id="a1d0ef02-3e53-4a53-8dc5-6460c16b0021">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Holy Strike" id="a43ae982-247b-4783-ab1d-058e5a5c6b18">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Bound Healing" id="c4a4a390-32b8-43db-8673-789d00ab3e59">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Bloodthirsty Strike" id="5c78af5c-ddd6-4973-a5c2-d8bcfb48ba04">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Flame Strike" id="6185f05c-1d3d-4f44-b7b5-88f05283a13a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Lightning Strike" id="861fed39-7c5e-4fd8-8ffa-8b27f5737043">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo</tags>
+  </card>
+  <card name="Gorgon Spearthwoer" id="861fed39-7c5e-4fd8-8ffa-8b27f5737043">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo academy</tags>
+  </card>
+  <card name="Shock" id="861fed39-7c5e-4fd8-8ffa-8b27f5737043">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="0" />
+    <tags>promo academy</tags>
+  </card>
+</extraInfo>

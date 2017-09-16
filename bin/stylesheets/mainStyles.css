@@ -1,0 +1,42 @@
+#MainBox {
+	-fx-spacing: 10.0;
+	-fx-padding: 20.0px;
+}
+
+#FilterBox {
+	-fx-spacing: 5.0;
+}
+
+.LeftBox {
+	-fx-spacing: 10.0;
+	-fx-padding: 20.0px;
+}
+
+#StartupBox {
+	-fx-alignment: baseline-center;
+}
+
+.rightLabel {
+	-fx-alignment: baseline-right 
+}
+
+#ErrataButton {
+	-fx-text-fill: red;
+}
+
+#ErrataButton:disabled {
+	-fx-text-fill: black;
+}
+
+#RightBox {
+	-fx-spacing: 50.0;
+}
+
+.Tab {
+	-fx-background-color: lightgray;
+	-fx-alignment: top-center;
+}
+
+.FilterMageTabElement {
+	
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck game="9acef3d0-efa8-4d3f-a10c-54812baecdda" sleeveid="0" mode="Mage Wars Arena">
+  <section name="Mage" shared="false">
+    <card qty="1" id="d20c9d4a-65a7-4018-bffc-16ed0cb62912">Druid</card>
+  </section>
+  <section name="Attack" shared="false" />
+  <section name="Conjuration" shared="false" />
+  <section name="Creature" shared="false" />
+  <section name="Enchantment" shared="false" />
+  <section name="Equipment" shared="false" />
+  <section name="Incantation" shared="false" />
+  <notes />
+</deck>

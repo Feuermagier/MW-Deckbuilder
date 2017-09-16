@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="dvsn">
+  <card name="Acid Ball" id="a5386a31-5786-4e70-9482-65657607d802">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Altar of Skulls" id="31f4cf44-febc-46fb-920c-5293a7e2d615">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Corrosive Orchid" id="a3a04a1e-76e9-4043-a22c-d731ac2a103f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Etherian Lifetree" id="0dfe805d-f194-437d-84bd-7a8da15aa95e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Graveyard" id="be8a0047-ad80-44c5-91cb-ab7a65cbdf1e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Mohktari, Great Tree of Life" id="0eb7fe47-d3b5-44d8-b7e8-424b7bc674e0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Nightshade Lotus" id="9192232a-e12a-4f84-8880-6ba315124062">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Seedling Pod" id="11a15edf-2a69-4507-9449-f57badafcfe4">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Samara Tree" id="f839c0c0-ed2f-4440-931f-ec5ecf6b385d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Stranglevine" id="32a5f867-3654-41b3-9917-74b5983eedd2">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Tanglevine" id="a7f900e4-64ac-4c1b-8905-90607feb7d1a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Vine Tree" id="b0993b6c-e604-4ba4-86d7-b45e53daae9b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Ziggurat of Undeath" id="1aea1576-11e2-413c-b49a-50493f07fe99">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Bloodspine Wall" id="dc82a5de-08e5-449d-a4c1-1ee193f816af">
+    <role value="" />
+    <errata url="BloodThornsWallErrata.html" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Wall of Bones" id="2518e7c2-bb94-4061-b2fc-f0435ef7e861">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Acolyte of the Bog Queen" id="9a1370a0-44cb-47ac-a736-807f96a51785">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Deathfang" id="5f5be863-dbbe-4eb7-93c2-b933cc5eab89">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Devouring Jelly" id="ec3dc5d5-57c6-423e-bb65-ba2a0a0f91b9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Grey Wraith" id="4fc86a1f-d24d-4da7-9f85-5818df967abd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Ichthellid" id="08222fa4-57c4-4ebd-a27a-66f7942e46cb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Kralathor, The Devourer" id="e4fb0871-99e8-40c3-b744-828400701c36">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Mort" id="352583ca-7fed-481b-9b8a-456b05e61501">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Unstable Zombie" id="fb442d50-c831-4da9-bbb8-dace15fea19b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Plague Zombie" id="c0ae161f-891a-4fa8-824e-ca35ea8effeb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Raptor Vine" id="1c7345af-d370-446b-8d71-ebb1e90b0db9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Ravenous Ghoul" id="499cdd49-3a70-433b-8ecf-a43f1906b845">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Shaggoth-Zora" id="42e4bd62-7a26-4d7a-9b19-21e4c26fc0dd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Skeletal Archer" id="310c13cd-b845-46c2-9ad7-94eda4626f1d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Skeletal Knight" id="b3ea6383-16dc-4786-92c5-e1498f2811c3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Skeletal Minion" id="d40817b6-6574-4d86-b0bf-0f32fb1e49cf">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Spitting Raptor" id="6ae1f6c5-8005-4201-a6c3-223e2622c902">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Tataree" id="8d28ba55-a8ea-43e6-8df4-8becc8cb088f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Togorah, Forest Sentinel" id="b95362fb-2d0e-428d-af86-a85f667626dd">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Venomous Zombie" id="f4574320-6839-4346-a36f-cad119af8b43">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Vine Snapper" id="bc0190fc-cb97-47e5-aa19-a2d387a64b73">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Thornlasher" id="5065ae95-c3be-494f-ba68-afedb3b8c2d9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Zombie Brute" id="b37bdf0c-85f9-4b78-b32a-fe550c37d047">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Zombie Crawler" id="96c21a43-e794-4f23-9408-5c7f2523a4f6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Zombie Minion" id="e91c66db-b4cc-4b38-8427-06dceb2103a0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Barkskin" id="86308614-b7be-477c-b0ab-be56d31cadc5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Rise Again" id="69227c1a-b122-4395-a31a-463dab9d16e1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Stumble" id="1431371e-755e-4ff5-9fe3-7677673bce7b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Cloak of Shadows" id="290f58ae-7089-4ddd-a7ad-3abdd129f9dc">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Death Ring" id="70e1dca8-85ef-40f0-a18a-6904ed4539de">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Deathshroud Staff" id="84aeeb75-a297-4b94-a79d-f9068e19dcd9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Druid's Leaf Ring" id="ceee5eaa-4aef-4b81-b272-b23d7e15380d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Libro Mortuos" id="3eaae143-ac4b-4d8b-9396-83f8215aed51">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Mohktari's Branch" id="10e5eda8-f2b6-459f-9309-172251215aa9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Veteran's Belt" id="94757213-e96f-44b3-a520-7528fa098d74">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Vinewhip Staff" id="6fa5b665-0b7d-4815-9122-09e27b50c7a9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Wand of Healing" id="b96b5ebe-6e6b-4ee8-b644-8e68dda574c0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Meditation Amulet" id="2fbb95eb-e736-4710-b3d1-7a0a399f5a76">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Animate Dead" id="ee58773c-a3ea-42b9-b1ec-c0a4560f8cd6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Burst of Thorns" id="7c50b8b4-149e-4636-8beb-88672929946b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Reassemble" id="bdf3c1a5-2f4e-41bb-806f-b8db38ba7242">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Renewing Rain" id="8cdd0758-7dcb-4c58-9855-a1d852b86e33">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Unholy Resurgence" id="fed20306-b9fa-4351-acb0-126701a1bd8f">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Zombie Frenzy" id="da57df3c-1a95-48dd-a340-e304fb2d8bb7">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Dispel" id="b6ba6985-8bc2-4e41-9883-9b44fc8ddadf">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="1" />
+  </card>
+  <card name="Dissolve" id="12a46022-4004-47d3-82ca-f78230814d67">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+</extraInfo>

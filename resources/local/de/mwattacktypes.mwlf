@@ -1,0 +1,12 @@
+ALL;
+Alles;
+MELEE;
+Nahkampf;
+RANGE;
+Fernkampf;
+DAMAGE_BARRIER;
+Schadensbarriere;
+PASSAGE_ATTACK;
+Angriff bei Durchgang;
+TRAMPLE;
+Zertrampeln

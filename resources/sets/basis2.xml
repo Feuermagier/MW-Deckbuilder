@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd"
+	name="spelltome2"
+	id="ebf54167-43c4-48f0-a4ac-d0cd1ddeb6d2"
+	gameId="9acef3d0-efa8-4d3f-a10c-54812baecdda"
+	gameVersion="1.4.2.1"
+	version="1.15.0.0">
+	<markers/>
+	<cards>
+		<card id="755727ff-55c8-417a-a376-958f1dbb8d99" name="Blinding Flash">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Light" />
+			<property name="Cost" value="7" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Zone Attack] [Light] [Dice=2] [d12] [4-9 = Daze; 10+ = Stun] [Ethereal] [Unavoidable] [+2 vs. Nonliving Creatures]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Attacks all objects in the zone except the caster." />
+			<property name="CardID" value="MW1A01" />
+		</card>
+		<card id="96b996dd-50d6-4449-9ad5-3b7c52936738" name="Electrify">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Lightning" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Air" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Zone Attack] [Lightning] [Dice=4] [d12] [7-8 = Daze; 9+ = Stun] [Ethereal] [Unavoidable]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Attacks all objects in the zone except the caster." />
+			<property name="CardID" value="MW1A03" />
+		</card>
+		<card id="297f9d29-cedf-4d1a-970c-703a3f978907" name="Ring of Fire">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Flame" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Fire" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Zone Attack] [Flame] [Dice=5] [d12] [7-10 = Burn; 11+ = 2 Burn] [Unavoidable] [Defrost]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Attacks all objects in the zone except the caster." />
+			<property name="CardID" value="MW1A12" />
+		</card>
+		<card id="aecb2a7e-5d16-48bd-8a82-67522fa1f96e" name="Firestorm">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Flame" />
+			<property name="Cost" value="11" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Fire" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Zone Attack] [Flame] [Dice=5] [d12] [5-9 = Burn; 10+ = 2 Burn] [Defrost] [Unavoidable]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1A05" />
+		</card>
+		<card id="f47d8498-c367-44dd-98c8-e919a02e4b1d" name="Flameblast">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Flame" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Creature or Conjuration" />
+			<property name="School" value="Fire" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Flame] [Dice=4] [d12] [7-10 = Burn; 11+ = 2 Burn] [Unavoidable] [Defrost]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1A06" />
+		</card>
+		<card id="8ca4ca3f-2d9f-4828-bbfc-b106fb9b7b46" name="Geyser">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Hydro" />
+			<property name="Cost" value="4" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Creature or Conjuration" />
+			<property name="School" value="Water" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Hydro] [Dice=3] [d12] [5+ = Daze] [Unavoidable]" />
+			<property name="Text" value="" />
+			<property name="Traits" value="" />
+			<property name="CardID" value="MW1A08" />
+		</card>
+		<card id="d9db82f3-e853-4281-8f24-1574f02912b9" name="Chain Lightning">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Lightning" />
+			<property name="Cost" value="12" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Creature or Conjuration" />
+			<property name="School" value="Air" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Lightning] [Dice=5] [d12] [5-7 = Daze; 8+ = Stun] [Ethereal]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Each time Chain Lightning damages a target, it may attack another target. That target must be in LoS of the last target, and may be up to 1 zone away from that target. Each successive attack rolls 1 fewer attack dice, and subtracts 1 more from the effect die roll. Chain Lightning can&apos;t attack the same target twice." />
+			<property name="CardID" value="MW1A02" />
+			<alternate name="Chain Lightning" type="B" />
+		</card>
+		<card id="effa9ea8-3cf2-4efe-a83f-6f920c8faa22" name="Jet Stream">
+			<property name="Type" value="Attack" />
+			<property name="Subtype" value="Wind" />
+			<property name="Cost" value="4" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Creature or Conjuration" />
+			<property name="School" value="Air" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="[Ranged] [Wind] [Dice=2] [d12] [4-10 = Push; 11+ = Push &amp; Daze] [Ethereal] [+2 vs. Flying]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1A09" />
+		</card>
+
+		<card id="a6a69bf2-56a1-4f73-b62e-d1423983eddf" name="Lair">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Portal" />
+			<property name="Cost" value="15" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Channeling=2, Armor=3, Life=13" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Spawnpoint, Zone Exclusive, Epic, Beastmaster Only" />
+			<property name="Text" value="During The Deployment Phase, Lair may summon 1 animal creature" />
+			<property name="CardID" value="MW1J10" />
+		</card>
+		<card id="6444b6f4-ae19-45b7-8855-a1dd96ba6bab" name="Wall of Thorns" size="Horizontal Cards">
+			<property name="Type" value="Conjuration-Wall" />
+			<property name="Subtype" value="Plant" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone Border" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Armor=0, Life=6" />
+			<property name="AttackBar" value="Sharp Thorns:&#xD;&#xA;[Passage Attack] [Dice=2] [Creatures which pass through this wall, receive a number of attacks equal to their Level -1. Examples: A Level 3 creature is attacked twice, a Level 1 is not attacked.] [Unavoidable]" />
+			<property name="Traits" value="Passage Attacks, Blocks LOS, Regenerate 2, Living, Flame +2, Hydro Immunity, Extendable" />
+			<property name="Text" value="Creatures of Level 2 or higher must spend a full action to move through the Wall of Thorns." />
+			<property name="CardID" value="MW1W04" />
+		</card>
+		<card id="884ef60a-b2a2-4dc3-89a2-6134541724f3" name="Poison Gas Cloud">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Cloud, Poison" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Air" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=-, Life=5" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Incorporeal, Wind +2" />
+			<property name="Text" value="Each Upkeep Phase all Living creatures in Poison Gas Cloud&apos;s zone receive 2 points of direct poison damage. If a Living creature enters this zone, or starts its Action Phase in this zone, it may not take more than one move action this round." />
+			<property name="CardID" value="MW1J18" />
+		</card>
+		<card id="c175d5b3-b5b7-4e1b-896a-cd9bef3c790c" name="Idol of Pestilence">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Artifact" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=1, Life=11" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Legendary, Epic" />
+			<property name="Text" value="During the Upkeep Phase, each Living creature receives 1 point of direct poison damage." />
+			<property name="CardID" value="MW1J11" />
+			<alternate name="Skeletal Sentry" type="B" />
+		</card>
+		<card id="804e971e-0b45-4198-bf12-ff71c7d43b05" name="Hand of Bim-Shalla">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Temple" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Armor=2, Life=5" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Unique" />
+			<property name="Text" value="Once each round, before or after any friendly creature&apos;s Action Phase, you may give a Living creature Armor +1 or the Melee +1 trait until the end of the round. or you may heal 1 damage from it. Use a ready marker to keep track of this ability.&#xD;&#xA;[ReadyMarker]" />
+			<property name="CardID" value="MW1J08" />
+			<alternate name="Hand of Bim-Shalla" type="B" />
+			<alternate name="Hand of Bim-Shalla" type="C" />
+		</card>
+		<card id="20ee0189-9f93-4000-93f0-b236bbc20c67" name="Suppression Orb">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Force, Mana, Artifact" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Mind" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=2, Life=8" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Legendary, Epic" />
+			<property name="Text" value="Whenever any non-Mage creature takes a move action, its controller must first pay 1 mana." />
+			<property name="CardID" value="MW1J21" />
+		</card>
+		<card id="782de4d1-61aa-4efa-baf1-99df5688704e" name="Mana Flower">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Mana, Plant" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Armor=0, Life=6" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Regenerate 2, Living, Flame +2, Hydro Immunity" />
+			<property name="Text" value="Controller gains Channeling +1.&#xD;&#xA;[Channeling +1]" />
+			<property name="CardID" value="MW1J13" />
+		</card>
+		<card id="9efdd1ac-d30c-4773-9ccd-f916470f4861" name="Mana Crystal">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Mana" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Armor=2, Life=6" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Flame Immunity" />
+			<property name="Text" value="Controller gains Channeling +1.&#xD;&#xA;[Channeling +1]" />
+			<property name="CardID" value="MW1J12" />
+		</card>
+		<card id="cfbeb5ae-3c91-4b05-94e2-bbde8bec21f9" name="Mana Syphon">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Portal, Mana" />
+			<property name="Cost" value="12" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Armor=-, Life=9" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Incorporeal, Epic" />
+			<property name="Text" value="When Mana Siphon comes into play, choose a Mage up to 2 zones away and within LoS of this spell. That Mage gains Channeling -2 as long as Mana Siphon remains in play, and regardless of where the chosen Mage is in the arena." />
+			<property name="CardID" value="MW1J14" />
+		</card>
+		<card id="358a2b4f-f579-45f3-813f-b2790eab468b" name="Mohktari, Great Tree of Life">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Plant, Tree" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=2, Life=8" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Regenerate 2, Living, Legendary, Flame +2, Hydro Immunity" />
+			<property name="Text" value="All friendly Living creatures in Mohktari&apos;s zone gain the Regenerate 2 trait." />
+			<property name="CardID" value="MW1J15" />
+			<alternate name="Mohktari, Great Tree of Life" type="B" />
+		</card>
+		<card id="26208d5a-4b15-41ee-880c-2dcf896ac45c" name="Mordok&apos;s Obelisk">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Artifact, Obelisk" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=3, Life=7" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Legendary, Epic" />
+			<property name="Text" value="All non-Mage creatures gain the Upkeep +1 trait." />
+			<property name="CardID" value="MW1J16" />
+		</card>
+		<card id="ca4dc7c2-6172-46fe-9a2d-a22a66214615" name="Fog Bank" size="Horizontal Cards">
+			<property name="Type" value="Conjuration-Wall" />
+			<property name="Subtype" value="Cloud" />
+			<property name="Cost" value="4" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone Border" />
+			<property name="School" value="Air" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Armor=-, Life=4" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Blocks LOS, Incorporeal, Extendable" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1W01" />
+		</card>
+		<card id="9dfe00eb-4795-4583-b272-b7b31ddb0f7c" name="Sacrificial Altar">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="4" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Armor=2, Life=5" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Dark Mage Only" />
+			<property name="Text" value="Once per round, before or after a friendly creature&apos;s Action Phase, you may destroy a creature you control and own to give a friendly creature the Melee +X and Piercing +X trait until the end of the round. X = the destroyed creature&apos;s Level." />
+			<property name="CardID" value="MW1J20" />
+		</card>
+		<card id="6a65ca7e-df13-4c27-90cb-44d4c86b2610" name="Pentagram">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Portal, Rune" />
+			<property name="Cost" value="14" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Channeling=1, Armor=-, Life=10" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Spawnpoint, Zone Exclusive, Incorporeal, Epic, Warlock Only" />
+			<property name="Text" value="Each time a different enemy creature is attacked and damaged by a friendly creature, place 1 mana on Pentagram. Pentagram may gain a maximum of 2 mana per round this way. During the Deployment Phase, if there is 2 or more mana on Pentagram, it may summon 1 Dark Living creature." />
+			<property name="CardID" value="MW1J17" />
+		</card>
+		<card id="7e359ecb-7ce3-46f0-a516-de5a5f589733" name="Battle Forge">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Structure" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="War+Fire" />
+			<property name="Level" value="1+1" />
+			<property name="Stats" value="Channeling=1, Armor=4, Life=6" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Spawnpoint, Zone Exclusive, Flame Immunity, Hydro +3" />
+			<property name="Text" value="During the Deployment Phase, Battle Forge may cast one equipment spell." />
+			<property name="CardID" value="MW1J04" />
+		</card>
+		<card id="93627f10-0699-4aa9-a18a-3fe06fd1b7b1" name="Temple of Asyra">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Temple, Portal" />
+			<property name="Cost" value="10" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Channeling=1, Armor=3, Life=9" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Spawnpoint, Zone Exclusive, Epic, Holy Mage Only" />
+			<property name="Text" value="Up to twice per round, you may have a friendly cleric creature use a full action to place 1 mana on Temple of Asyra. During the Deployment Phase, if there is 2 or more mana on Temple of Asyra, it may summon 1 Holy creature." />
+			<property name="CardID" value="MW1J23" />
+		</card>
+		<card id="0e4eed2a-34a6-4b4f-9fb2-23aabb2e958c" name="Temple of Light">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Temple" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=3, Life=8" />
+			<property name="AttackBar" value="Light Blast:&#xD;&#xA;[Ranged:0-2] [Light] [Dice=X] [d12] [9-10 = Stun; 11+ = Daze] [Ethereal] [+2 vs. Nonliving Creatures]" />
+			<property name="Traits" value="Zone Exclusive, Unique" />
+			<property name="Text" value="Once each round, before or after any friendly creature&apos;s Action Phase, you may choose a value of X from 1 to the number of temples you control, and pay X mana to make the above attack, adding X to the effect die roll. Use a ready marker to keep track of this ability.&#xD;&#xA;[ReadyMarker]" />
+			<property name="CardID" value="MW1J24" />
+			<alternate name="Temple of Light" type="B" />
+			<alternate name="Temple of Light" type="C" />
+		</card>
+		<card id="d6f98712-aa0d-45b5-950e-7f9b991f5684" name="Deathlock">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Artifact" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=2, Life=9" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Zone Exclusive, Epic" />
+			<property name="Text" value="All creatures and conjurations gain the Finite Life trait." />
+			<property name="CardID" value="MW1J19" />
+		</card>
+		<card id="ee196806-7dc0-4de8-af56-50b3b76c2206" name="Gate to Voltari">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Portal" />
+			<property name="Cost" value="14" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Channeling=1, Armor=2, Life=14" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Spawnpoint, Zone Exclusive, Epic, Wizard Only" />
+			<property name="Text" value="When Gate to Voltari comes into play, choose an opponent Mage. Whenever that Mage casts and resolves a spell, place 1 mana on Gate. During the Deployment Phase, if there is 3 or more mana on Gate, it may summon one Corporeal Arcane creature." />
+			<property name="CardID" value="MW1J07" />
+		</card>
+		<card id="b684d6b9-0bc0-4735-998b-026a82ce7e4b" name="Gate to Hell">
+			<property name="Type" value="Conjuration" />
+			<property name="Subtype" value="Portal" />
+			<property name="Cost" value="12" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="6" />
+			<property name="Stats" value="Armor=3, Life=11" />
+			<property name="AttackBar" value="Open the Gate:&#xD;&#xA;[Flame] [Dice=4] [d12] [5-10 = Burn; 11+ = 2 Burn] [Unavoidable] [Defrost]" />
+			<property name="Traits" value="Zone Exclusive, Flame Immunity, Hydro +3, Epic, Warlock Only" />
+			<property name="Text" value="All demon creatures gain Melee +1. Gate to Hell enters play with a &apos;Closed&apos; token. Once per game, as a full action, you may pay 12 mana to flip the token to the &quot;Opened&quot; side, and make the above attack against each non-flying creature in the arena. Once opened, whenever you, or a spawnpoint or familiar you control, Summon a demon creature, you may place it in the Gate&apos;s zone." />
+			<property name="CardID" value="MW1J06" />
+		</card>
+
+		<card id="5fe1c35e-e146-456c-bf66-73aefd29bb7f" name="Adramelech, Lord of Fire">
+ 			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Demon" />
+			<property name="Cost" value="24" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark+Fire" />
+			<property name="Level" value="4+2" />
+			<property name="Stats" value="Armor=3, Life=14" />
+			<property name="AttackBar" value="Hellfire Scythe:&#xD;&#xA;[Quick] [Melee] [Flame] [Dice=6] [d12] [5-9 = Burn; 10+ = 2 Burn] [Defrost]&#xD;&#xA;Hellfire Sweep:&#xD;&#xA;[Full] [Melee] [Flame] [Dice=4] [d12] [7-10 = Burn; 11+ = 2 Burn] [Sweeping] [Defrost]" />
+			<property name="Traits" value="Flying, Flame Immunity, Legendary" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C01" />
+		</card>
+		<card id="76d2e8e3-6414-488c-b866-20d91f6320db" name="Brogan Bloodstone">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Knight, Soldier" />
+			<property name="Cost" value="15" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Armor=4, Life=11" />
+			<property name="AttackBar" value="Vorpal Blade:&#xD;&#xA;[Quick] [Melee] [Dice=4] [Unavoidable] [Piercing +3]" />
+			<property name="Traits" value="Lightning +2, Legendary" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C06" />
+		</card>
+		<card id="1df603fc-3d5d-4a40-9942-640bca00e396" name="Cervere, The Forest Shadow">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal, Cat" />
+			<property name="Cost" value="15" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Defense=8+ 1x, Armor=2, Life=11" />
+			<property name="AttackBar" value="Claws &amp; Bite:&#xD;&#xA;[Quick] [Melee] [Dice=4]" />
+			<property name="Traits" value="Fast, Elusive, Legendary" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C07" />
+		</card>
+		<card id="1b6c4df2-706b-440e-9f55-c6d3c0df93a7" name="Darkfenne Hydra">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Serpent" />
+			<property name="Cost" value="16" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Armor=1, Life=15" />
+			<property name="AttackBar" value="Snapping Bite:&#xD;&#xA;[Quick] [Melee] [Dice=4] [Counterstrike]&#xD;&#xA;Triple Bite:&#xD;&#xA;[Full] [Melee] [Dice=3] [Triplestrike]" />
+			<property name="Traits" value="Regenerate 2, Slow" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C09" />
+		</card>
+		<card id="bf4ff874-b6f9-4f70-9dcb-7831a58c8997" name="Fellella, Pixie Familiar">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Faerie" />
+			<property name="Cost" value="12" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Channeling=1, Defense=6+ inf, Armor=0, Life=6" />
+			<property name="AttackBar" value="Ethereal Touch:&#xD;&#xA;[Quick] [Melee] [Dice=2] [Ethereal]" />
+			<property name="Traits" value="Familiar, Flying, Pest, Legendary, Nature Mage Only" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C13" />
+		</card>
+		<card id="536cee06-aa95-4efc-a484-e4d19a3f2222" name="Goran, Werewolf Pet">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Lycanthrope, Canine" />
+			<property name="Cost" value="15" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Armor=3, Life=12" />
+			<property name="AttackBar" value="Fangs:&#xD;&#xA;[Quick] [Melee] [Dice=4]&#xD;&#xA;Feral Claws:&#xD;&#xA;[Full] [Melee] [Dice=3] [Doublestrike]" />
+			<property name="Traits" value="Bloodthirsty +1, Legendary, Warlock Only" />
+			<property name="Text" value="Goran gains an additional Bloodthirsty +1 trait while in the same zone as his controlling Mage." />
+			<property name="CardID" value="MW1C17" />
+		</card>
+		<card id="03d52691-75b2-42ec-a81c-ca2074f28002" name="Gorgon Archer">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Serpent" />
+			<property name="Cost" value="16" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Armor=1, Life=13" />
+			<property name="AttackBar" value="Poison Bow:&#xD;&#xA;[Full] [Ranged:1-2] [Dice=4] [d12] [4-9 = Weak; 10+ = 2 Weak]&#xD;&#xA;Claws:&#xD;&#xA;[Quick] [Melee] [Dice=2]" />
+			<property name="Traits" value="Regenerate 2, Slow" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C18" />
+		</card>
+		<card id="da91fdd3-73dd-418f-91cf-bf827ef40509" name="Highland Unicorn">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal, Horse" />
+			<property name="Cost" value="13" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Armor=2, Life=9" />
+			<property name="AttackBar" value="Horn:&#xD;&#xA;[Quick] [Melee] [Dice=3]" />
+			<property name="Traits" value="Regenerate 2, Charge +2" />
+			<property name="Text" value="All friendly Living creatures in the same zone as Highland Unicorn gain the Regenerate 1 trait." />
+			<property name="CardID" value="MW1C20" />
+		</card>
+		<card id="e6dc6c98-4d6b-4d02-9b13-1df201ea1df4" name="Huginn, Raven Familiar">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal, Bird" />
+			<property name="Cost" value="11" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Channeling=1, Defense=6+ inf, Armor=0, Life=5" />
+			<property name="AttackBar" value="Beak:&#xD;&#xA;[Quick] [Melee] [Dice=1] [Piercing +1]&#xD;&#xA;Raven&apos;s Eye:&#xD;&#xA;[Quick] [Ranged:0-2] [Huginn may look at a target hidden enchantment. After looking, leave it face down (hidden).]" />
+			<property name="Traits" value="Familiar, Flying, Pest, Legendary, Arcane Mage Only" />
+			<property name="Text" value="Huginn can cast only level 1-2 incantation spells." />
+			<property name="CardID" value="MW1C21" />
+		</card>
+		<card id="52b0f102-59d5-415c-9e5b-3d2192613155" name="Malacoda">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Demon" />
+			<property name="Cost" value="16" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Armor=3, Life=13" />
+			<property name="AttackBar" value="Talons:&#xD;&#xA;[Quick] [Melee] [Dice=4] [Piercing +1]" />
+			<property name="Traits" value="Slow, Poison Immunity, Legendary" />
+			<property name="Text" value="Each Upkeep Phase, all Living creatures in Malacoda&apos;s zone receive 2 points of direct poison damage." />
+			<property name="CardID" value="MW1C23" />
+			<alternate name="Malacoda" type="B" />
+		</card>
+		<card id="cdfe1a7e-8adf-42c1-b786-9dbef6256061" name="Redclaw, Alpha Male">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal, Canine" />
+			<property name="Cost" value="16" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Armor=3, Life=12" />
+			<property name="AttackBar" value="Bite:&#xD;&#xA;[Quick] [Melee] [Dice=5]" />
+			<property name="Traits" value="Legendary" />
+			<property name="Text" value="All other friendly canine creatures in the same zone as Redclaw gain Armor +1 and the Melee +1 trait." />
+			<property name="CardID" value="MW1C29" />
+		</card>
+		<card id="12f32a67-eb37-4311-ab57-addb40573990" name="Knight of Westlock">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Knight, Soldier" />
+			<property name="Cost" value="13" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Defense=8+ 1x, Armor=3, Life=10" />
+			<property name="AttackBar" value="Longsword:&#xD;&#xA;[Quick] [Melee] [Dice=5]" />
+			<property name="Traits" value="Lightning +2" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C22" />
+		</card>
+		<card id="33e41d11-c799-4fb0-a25d-dcb5758bc0f0" name="Samandriel, Angel of Light">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Angel" />
+			<property name="Cost" value="21" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="5" />
+			<property name="Stats" value="Armor=1, Life=14" />
+			<property name="AttackBar" value="The Greatsword &quot;Starfire&quot;:&#xD;&#xA;[Quick] [Melee] [Light] [Dice=5] [d12] [7-10 = Daze; 11+ = Stun] [Ethereal] [+1 vs. Nonliving or Dark Creatures]" />
+			<property name="Traits" value="Aegis 1, Flying, Light Immunity, Legendary" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C31" />
+		</card>
+		<card id="0d9b07c9-5d2b-45fa-9e69-6f371293f883" name="Skeletal Sentry">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Undead, Skeleton, Soldier" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=0, Life=11" />
+			<property name="AttackBar" value="Short Sword:&#xD;&#xA;[Quick] [Melee] [Dice=4]" />
+			<property name="Traits" value="Nonliving, Psychic Immunity" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C32" />
+			<alternate name="Skeletal Sentry" type="B" />
+		</card>
+		<card id="ddb64417-619b-49a4-a783-9bcf77f54c34" name="Emerald Tegu">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal, Reptile" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Armor=3, Life=8" />
+			<property name="AttackBar" value="Venomous Bite:&#xD;&#xA;[Quick] [Melee] [Dice=3] [d12] [8+ = Rot]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C12" />
+		</card>
+		<card id="28828fac-23f8-4b66-bde0-38d4a4931862" name="Sosruko, Ferret Companion">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal" />
+			<property name="Cost" value="7" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Defense=5+ inf, Armor=0, Life=5" />
+			<property name="AttackBar" value="Bite:&#xD;&#xA;[Quick] [Melee] [Dice=2] [d12] [7+ = Taunt]" />
+			<property name="Traits" value="Elusive, Pest, Legendary, Beastmaster Only" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C33" />
+		</card>
+		<card id="3a55bfaa-a96e-43fc-9a66-f8aff21701d5" name="Steelclaw Grizzly">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal, Bear" />
+			<property name="Cost" value="17" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="Armor=3, Life=15" />
+			<property name="AttackBar" value="Claws:&#xD;&#xA;[Quick] [Melee] [Dice=5] [Piercing +1]&#xD;&#xA;Heavy Claw Strike:&#xD;&#xA;[Full] [Melee] [Dice=7] [Piercing +1]" />
+			<property name="Traits" value="Frost -3" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C34" />
+		</card>
+		<card id="031d394a-fafc-4e88-b1c9-1152b223b278" name="Stonegaze Basilisk">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Reptile, Lizard" />
+			<property name="Cost" value="12" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Armor=2, Life=10" />
+			<property name="AttackBar" value="Paralysis Beam:&#xD;&#xA;[Full] [Ranged:0-2] [Dice=2] [d12] [7+ = Cripple]&#xD;&#xA;Bite:&#xD;&#xA;[Quick] [Melee] [Dice=4]" />
+			<property name="Traits" value="Slow" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1C35" />
+		</card>
+		<card id="5745219f-22d6-4027-8006-e71e9557b3ff" name="Tarok, the Skyhunter">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Animal, Bird" />
+			<property name="Cost" value="13" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="Defense=7+ 1x No Ranged, Armor=2, Life=9" />
+			<property name="AttackBar" value="Beak &amp; Talons:&#xD;&#xA;[Quick] [Melee] [Dice=3] [Piercing +1] [+2 vs. Flying]" />
+			<property name="Traits" value="Flying, Legendary" />
+			<property name="Text" value="Tarok&apos;s defense only works against Melee attacks from Flying creatures." />
+			<property name="CardID" value="MW1C36" />
+		</card>
+		<card id="4519600d-8012-4b90-b05c-bcf36ca62469" name="Valshalla, Lightning Angel">
+			<property name="Type" value="Creature" />
+			<property name="Subtype" value="Angel" />
+			<property name="Cost" value="21" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="5" />
+			<property name="Stats" value="Armor=1, Life=14" />
+			<property name="AttackBar" value="Lightning Sword:&#xD;&#xA;[Quick] [Melee] [Lightning] [Dice=4] [d12] [7-8 = Daze; 9+ = Stun] [Ethereal]" />
+			<property name="Traits" value="Aegis 1, Flying, Lightning -2, Legendary" />
+			<property name="Text" value="Once per round, if a friendly creature is attacked and destroyed by an enemy creature, place a Wrath token on Valshalla, up to a maximum of 4 tokens. For each token on her, Valshalla gains Melee +1." />
+			<property name="CardID" value="MW1C39" />
+		</card>
+		
+		<card id="732f4d7f-0cf6-4393-9446-b9360c8f18e3" name="Reverse Attack">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Force, Defense" />
+			<property name="Cost" value="2+5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="Mind" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="When this creature is attacked, you must reveal Reverse Attack during the Avoid Attack Step. The attack is avoided and then redirected back to the attacker, who now becomes the target of that attack for the next 2 steps (Roll Dice and Damage and Effects). Then, destroy Reverse Attack. If the attack is Unavoidable, destroy Reverse Attack without effect." />
+			<property name="CardID" value="MW1E34" />
+		</card>
+		<card id="8df84f88-e24a-4517-aae5-8595c09cc3cd" name="Bear Strength">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="2+3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="This creature gains the Melee +2 trait.&#xD;&#xA;[Melee +2]" />
+			<property name="CardID" value="MW1E01" />
+		</card>
+		<card id="6fa6c0f1-d187-47ed-8285-4d40aeb49207" name="Maim Wings">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Curse" />
+			<property name="Cost" value="2+3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="This creature loses the Flying trait." />
+			<property name="CardID" value="MW1E25" />
+		</card>
+		<card id="7b9de53a-a500-44b5-a510-19636528d89a" name="Cheetah Speed">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="2+3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="This creature gains the Fast trait.&#xD;&#xA;[Fast]" />
+			<property name="CardID" value="MW1E05" />
+		</card>
+		<card id="660cd33f-8812-48bb-a513-2ada886a0320" name="Ghoul Rot">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Curse, Poison" />
+			<property name="Cost" value="2+4" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Magebind +2" />
+			<property name="Text" value="Each Upkeep Phase, this creature receives 2 direct poison damage." />
+			<property name="CardID" value="MW1E19" />
+			<alternate name="Ghoul Rot" type="B" />
+		</card>
+		<card id="d7ad20c5-f185-4e32-beec-f6e120e05719" name="Divine Intervention">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Protection" />
+			<property name="Cost" value="2+10" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Holy Mage Only, Epic" />
+			<property name="Text" value="When this spell is revealed, you may Teleport this creature to any zone in the Arena, then destroy Divine Intervention." />
+			<property name="CardID" value="MW1E11" />
+		</card>
+		<card id="775fd07c-63b3-48af-9a6d-061165fe5805" name="Chains of Agony">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Curse" />
+			<property name="Cost" value="2+1" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Creature" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Each time this creature takes a move action, it receives 1 direct damage." />
+			<property name="CardID" value="MW1E04" />
+		</card>
+		<card id="746e5dba-4689-4ae5-831e-a844131c4824" name="Cobra Reflexes">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Defense" />
+			<property name="Cost" value="2+5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Magebind +2" />
+			<property name="Text" value="This creature gains a Defense.&#xD;&#xA;[Defense 7+ 1x]" />
+			<property name="CardID" value="MW1E07" />
+		</card>
+		<card id="aeada61e-e636-4c46-b169-833162a13b93" name="Force Hold">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Force" />
+			<property name="Cost" value="2+2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Creature" />
+			<property name="School" value="Mind" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Upkeep +3" />
+			<property name="Text" value="This creature is Restrained, and gains the Unmovable trait. This does not affect creatures with the Uncontainable trait.&#xD;&#xA;[Unmovable] [Restrained]" />
+			<property name="CardID" value="MW1E16" />
+		</card>
+		<card id="9fd89680-0bb1-442c-ad19-193ea556873e" name="Magebane">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Curse" />
+			<property name="Cost" value="2+3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Creature" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Each time this creature casts and resolves a spell, it receives 1 direct damage." />
+			<property name="CardID" value="MW1E24" />
+		</card>
+		<card id="5f318366-9c85-4304-b7b1-3c60daf0edde" name="Reverse Magic">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Metamagic" />
+			<property name="Cost" value="2+5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="When this creature is targeted by an incantation or enchantment spell controlled by an opponent, you must reveal Reverse Magic during the Counter
+				Spell Step. You take control of that spell. Redirect it back to the caster, who now becomes the target of the spell. You control that spell, and may make new choices, paying additional
+				 mana costs if any. Then, destroy Reverse Magic." />
+			<property name="CardID" value="MW1E35" />
+			<alternate name="Reverse Magic" type="B" />
+			<alternate name="Reverse Magic" type="C" />
+		</card>
+		<card id="76d440be-b82c-4a12-97ef-c2bad86fdc1a" name="Regrowth">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="2+3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Magebind +1" />
+			<property name="Text" value="This creature gains the Regenerate 2 trait.&#xD;&#xA;[Regenerate 2]" />
+			<property name="CardID" value="MW1E32" />
+		</card>
+		<card id="afd1e927-92a2-4525-a33f-50fec7c9b382" name="Rhino Hide">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="2+2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Magebind +1" />
+			<property name="Text" value="This creature gains Armor +2.&#xD;&#xA;[Armor +2]" />
+			<property name="CardID" value="MW1E36" />
+		</card>
+		<card id="b4c5b374-da35-482f-9ef1-594a39de116e" name="Bull Endurance">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="2+3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="This creature gains Life +4.&#xD;&#xA;[Life +4]" />
+			<property name="CardID" value="MW1E03" />
+		</card>
+		<card id="46b36e31-5dec-4a37-a39c-c2a5b6e0caee" name="Death Link">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Curse" />
+			<property name="Cost" value="2+6" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Non-Mage Living Creature" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Magecast, Unique, Dark Mage Only" />
+			<property name="Text" value="Each Upkeep Phase, the controller of Death Link may heal up to 2 damage from his Mage and place it on this creature as direct damage, regardless of distance or LoS." />
+			<property name="CardID" value="MW1E08" />
+		</card>
+		<card id="24b63480-3272-4f93-b576-48710d5bedaa" name="Retaliate">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="2+2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="War" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="This creature&apos;s quick action melee attacks gain the Counterstrike trait. The first time it makes a Counterstrike attack, destroy Retaliate.&#xD;&#xA;[Counterstrike]" />
+			<property name="CardID" value="MW1E33" />
+		</card>
+		<card id="7bc882f8-d7d0-4c70-b40f-2cbc844e3579" name="Jinx">
+			<property name="Type" value="Enchantment" />
+			<property name="Subtype" value="Metamagic" />
+			<property name="Cost" value="2+1" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Creature" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="When this creature casts a quick spell, you must reveal Jinx during the Counter Spell Step. That spell is canceled and is returned to its owner&apos;s spellbook. Any mana spent to cast that spell is refunded to the caster&apos;s mana supply. Then, destroy Jinx." />
+			<property name="CardID" value="MW1E23" />
+		</card>
+		
+		<card id="d927a1b6-06f0-4abc-b072-d2ea692c408c" name="Arcane Ring">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="Mana" />
+			<property name="Cost" value="2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Wizard Only" />
+			<property name="Text" value="Once per round, this Mage may pay 1 less mana when he casts or reveals a metamagic or mana spell. Enchantments only receive this discount when they are revealed. &#xD;&#xA;[Casting Discount] [1] [Metamagic/Mana]  [x1]" />
+			<property name="CardID" value="MW1Q01" />
+		</card>
+		<card id="12b4584c-1338-4155-8a7f-6ba27ced88ba" name="Bearskin">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="6" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Chest Piece" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains Armor +2 and the Frost -2 trait.&#xD;&#xA;[Armor +2] [Frost -2]" />
+			<property name="CardID" value="MW1Q02" />
+		</card>
+		<card id="7900f68c-f781-48d1-9c96-74973d16530c" name="Ring of Beasts">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="Mana" />
+			<property name="Cost" value="2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Beastmaster Only" />
+			<property name="Text" value="Once per round, this Mage may pay 1 less mana when he casts an animal creature spell.&#xD;&#xA;[Casting Discount] [1] [Animal] [x1]" />
+			<property name="CardID" value="MW1Q25" />
+		</card>
+		<card id="e3375aac-6b2d-45b8-93a9-c8d0b316ee94" name="Staff of Beasts">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="7" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Location=Weapon" />
+			<property name="AttackBar" value="Savage Strike:&#xD;&#xA;[Quick] [Melee] [Dice=4]" />
+			<property name="Traits" value="Beastmaster Only" />
+			<property name="Text" value="Once per round, as a quick spell, this Mage may pay 2 mana and target an animal creature up to 1 zone away and either give them the Melee +2 trait until end of round, or heal damage equal to the amount rolled on 2 attack dice." />
+			<property name="CardID" value="MW1Q30" />
+		</card>
+		<card id="fc42efdc-0a85-4a45-a273-f5e403f1489c" name="Demonhide Armor">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Location=Chest Piece" />
+			<property name="AttackBar" value="Demonic Presence:&#xD;&#xA;[Damage Barrier] [Dice=1] [Ethereal] [Unavoidable] [Critical Damage]" />
+			<property name="Traits" value="Dark Mage Only" />
+			<property name="Text" value="Mage gains Armor +2 and a Damage Barrier. &#xD;&#xA;[Armor +2]" />
+			<property name="CardID" value="MW1Q05" />
+		</card>
+		<card id="dda72c4a-8f33-42cf-9eed-bd52fb91af22" name="Elemental Cloak">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="6" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Cloak" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains Armor +1, and the Flame -2, Frost -2, and Lightning -2 traits. &#xD;&#xA;[Armor +1] [Flame -2] [Frost -2] [Lightning -2]" />
+			<property name="CardID" value="MW1Q07" />
+		</card>
+		<card id="469d4201-ec88-4f13-a8dc-f11b48e3df4b" name="Elemental Wand">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Earth/Fire/Air/Water" />
+			<property name="Level" value="2/2/2/2" />
+			<property name="Stats" value="Location=Weapon/Shield" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Spellbind" />
+			<property name="Text" value="You may bind a non-Epic attack spell from your spellbook to Elemental Wand. As a quick spell, you may pay 3 mana to change the bound spell." />
+			<property name="CardID" value="MW1Q08" />
+		</card>
+		<card id="983a31d2-4e37-441d-a39e-3088f9b3d84c" name="Regrowth Belt">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="6" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Belt" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains the Regenerate 2 trait.&#xD;&#xA;[Regenerate 2]" />
+			<property name="CardID" value="MW1Q23" />
+		</card>
+		<card id="ad9461c7-8594-44f6-9616-2bba7edbbd44" name="Helm of Fear">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Location=Helmet" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Warlock Only" />
+			<property name="Text" value="Whenever this Mage is targeted by a melee attack (except a Counterstrike), at the beginning of the Declare Attack Step, roll the effect die. On a 9+ the attack is canceled. The attacker may choose to attack a different target instead. This does not affect creatures with the Nonliving or Psychic Immunity traits." />
+			<property name="CardID" value="MW1Q12" />
+			<alternate name="Helm of Fear" type="B" />
+		</card>
+		<card id="5d82d063-51bc-491f-a9eb-a72a6722d509" name="Crown of Protection">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="Protection" />
+			<property name="Cost" value="1" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Helmet" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Priestess Only" />
+			<property name="Text" value="Once per round, as a quick spell, this Mage may pay 2 mana to place an Armor +1 token on a target Living non-Mage creature up to one zone away. These tokens may stack." />
+			<property name="CardID" value="MW1Q03" />
+		</card>
+		<card id="86d43008-5faf-4eaf-a66a-cdd985f45d5f" name="Mage Wand">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Location=Weapon/Shield" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Spellbind" />
+			<property name="Text" value="You may bind a non-Epic incantation spell from your spellbook to Mage Wand. As a quick spell, you may pay 3 mana to change the bound spell." />
+			<property name="CardID" value="MW1Q19" />
+		</card>
+		<card id="83181c0c-46a8-40f3-9451-c7b28ca8783f" name="Moloch&apos;s Torment">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Amulet" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Warlock Only" />
+			<property name="Text" value="During the Upkeep Phase, for each creature that has at least one curse you control attached to it, you may spend 1 mana to deal 1 direct damage to that creature." />
+			<property name="CardID" value="MW1Q21" />
+		</card>
+		<card id="b28a0c37-8690-4bb4-826a-131cd9f12294" name="Moonglow Amulet">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="Mana" />
+			<property name="Cost" value="6" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Amulet" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains the Channel +1 trait.&#xD;&#xA;[Channeling +1]" />
+			<property name="CardID" value="MW1Q22" />
+		</card>
+		<card id="35592eff-8121-45e0-9c1f-a52bf24469ae" name="Dawnbreaker Ring">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="School" value="Holy" />
+			<property name="Action" value="Quick" />
+			<property name="Cost" value="3" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains the Melee +1 and Ranged +1 traits for all attacks he makes that deal light damage." />
+			<property name="CardID" value="MW1Q27" />
+		</card>
+		<card id="5d2f72e1-7aaf-4931-b0e0-f11cce928313" name="Lash of Hellfire">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Dark+Fire" />
+			<property name="Level" value="1+1" />
+			<property name="Stats" value="Location=Weapon" />
+			<property name="AttackBar" value="Searing Thrash:&#xD;&#xA;[Quick] [Melee] [Flame] [Dice=4] [d12] [7-10 = Burn; 11+ = 2 Burn] [Reach] [Defrost]" />
+			<property name="Traits" value="Warlock Only" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1Q14" />
+		</card>
+		<card id="aa404428-c691-4c46-b11c-824158dfcf4d" name="Ring of Asyra">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="Mana" />
+			<property name="Cost" value="2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Priestess Only" />
+			<property name="Text" value="Once per round, this Mage may pay 1 less mana when she casts or reveals a Holy enchantment or incantation spell. Enchantments only receive this discount when they are revealed.&#xD;&#xA;[Casting Discount] [1] [Holy] [x1]" />
+			<property name="CardID" value="MW1Q24" />
+		</card>
+		<card id="d2b981a2-18c0-450a-b4cf-4d1c3d412e63" name="Lightning Ring">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Air" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains the Melee +1 and Ranged +1 traits for all attacks he makes that deal lightning damage." />
+			<property name="CardID" value="MW1Q17" />
+		</card>
+		<card id="91180ca9-e88e-4355-854a-49e78e2b4ec6" name="Ring of Curses">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="Mana" />
+			<property name="School" value="Dark" />
+			<property name="Action" value="Quick" />
+			<property name="Cost" value="2" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Warlock Only" />
+			<property name="Text" value="Once per round, this Mage may pay 1 less mana when he casts or reveals a curse spell. Enchantments only receive this discount when they are revealed.&#xD;&#xA;[Casting Discount] [1] [Curse] [x1]" />
+			<property name="CardID" value="MW1Q28" />
+		</card>
+		<card id="42f6de77-bab3-4be7-a0e1-567957dc37ba" name="Fireshaper Ring">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Fire" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains the Melee +1 and Ranged +1 traits for all attacks he makes that deal flame damage." />
+			<property name="CardID" value="MW1Q10" />
+		</card>
+		<card id="d78f4233-edf8-4535-b3db-37ba3a69d0ab" name="Staff of Asyra">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Location=Weapon" />
+			<property name="AttackBar" value="Celestial Strike:&#xD;&#xA;[Quick] [Melee] [Light] [Dice=4] [d12] [5-10 = Daze; 11+ = Stun] [Ethereal] [+2 vs. Nonliving Creatures]" />
+			<property name="Traits" value="Priestess Only" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1Q29" />
+		</card>
+		<card id="4376c705-deea-45cd-9dc2-70d5bc1483a8" name="Staff of the Arcanum">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Location=Weapon" />
+			<property name="AttackBar" value="Arcane Strike:&#xD;&#xA;[Quick] [Melee] [Dice=4] [Ethereal] [Mana Drain +1]&#xD;&#xA;Arcane Blast:&#xD;&#xA;[Full] [Ranged:1-1] [Dice=3] [Ethereal] [Mana Drain +1]" />
+			<property name="Traits" value="" />
+			<property name="Text" value="" />
+			<property name="CardID" value="MW1Q31" />
+		</card>
+		<card id="b37baf19-da0b-40f6-8cb3-cf8205bfb04e" name="Suppression Cloak">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="Mana" />
+			<property name="Cost" value="8" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="Location=Cloak" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Wizard Only" />
+			<property name="Text" value="The first time each round that each creature makes a melee attack against this Mage, its controller must pay 2 mana during the Declare Attack Step, as an additional cost of making that attack. Has no effect on counterstrikes." />
+			<property name="CardID" value="MW1Q32" />
+		</card>
+		<card id="d2d9ee17-377b-453f-9772-e996076cece4" name="Enchanter&apos;s Ring">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane/Nature" />
+			<property name="Level" value="1/1" />
+			<property name="Stats" value="Location=Ring" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Once per round, this Mage may pay 1 less mana when he casts an enchantment spell that targets a friendly creature. &#xD;&#xA;[Casting Discount] [1] [Enchantment] [x1]" />
+			<property name="CardID" value="MW1Q09" />
+		</card>
+		<card id="9394929c-4773-4aa2-bd02-2a930cfa07a0" name="Wind Wyvern Hide">
+			<property name="Type" value="Equipment" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="6" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Air" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="Location=Chest Piece" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Mage gains Armor +2 and the Wind -3 trait.&#xD;&#xA;[Armor +2] [Wind -3]" />
+			<property name="CardID" value="MW1Q33" />
+		</card>
+
+		<card id="78846d18-04ca-4fc8-b3e1-bc22003a92a8" name="Charge">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Command" />
+			<property name="Cost" value="4" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="War" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Target gains the Fast and Charge +1 traits until the end of the round.&#xD;&#xA;[Fast] [Charge]" />
+			<property name="CardID" value="MW1I04" />
+		</card>
+		<card id="f03a6893-230c-48e1-b611-2ad5cde7552e" name="Resurrection">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Healing" />
+			<property name="Cost" value="X" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Destroyed Living Creature" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="4" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Choose a destroyed Living creature from your discard pile and summon it to the caster&apos;s zone. X = target spell&apos;s mana cost plus its spell Level." />
+			<property name="CardID" value="MW1I22" />
+		</card>
+		<card id="2753eeea-2130-4399-ae88-f96ed1ccf776" name="Dispel">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Metamagic" />
+			<property name="Cost" value="X" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Revealed Enchantment" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Destroy the target. X = total mana cost of target enchantment (casting plus reveal cost)." />
+			<property name="CardID" value="MW1I06" />
+		</card>
+		<card id="dc3cd8bd-9867-4dde-99a2-911d3ca69b67" name="Piercing Strike">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Command" />
+			<property name="Cost" value="2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="War" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Novice" />
+			<property name="Text" value="Target&apos;s next melee attack this round gains the Piercing +3 trait.&#xD;&#xA;[Piercing +3]" />
+			<property name="CardID" value="MW1I19" />
+		</card>
+		<card id="4f78b672-2c43-4979-8a3b-0bb2e3e8e1a2" name="Rouse the Beast">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="" />
+			<property name="Cost" value="X" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Nature" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Target a creature summoned this round. Flip target creature&apos;s action marker to the active side. That creature may act normally this round. You can only cast this one time per round on the same creature. X = target&apos;s Level." />
+			<property name="CardID" value="MW1I23" />
+		</card>
+		<card id="f3c06b0f-69ac-40ba-8d78-632c5f89505c" name="Group Heal">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Healing" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Full" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Zone" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Heal each friendly Living creature in the target zone the amount rolled on 5 attack dice. Roll separately for each creature." />
+			<property name="CardID" value="MW1I13" />
+		</card>
+		<card id="61d4135c-e151-4c04-b759-23b1eb12abee" name="Lay Hands">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Healing" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-0" />
+			<property name="Target" value="Living Non-Mage Creature" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Epic, Holy Mage Only" />
+			<property name="Text" value="Heal target creature the amount rolled on 12 attack dice. Remove as many condition markers as you wish from target creature by paying their removal costs." />
+			<property name="CardID" value="MW1I16" />
+		</card>
+		<card id="5c2d7a57-f15c-44a9-9dc8-9393056d9e55" name="Heal">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Healing" />
+			<property name="Cost" value="9" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Heal target creature the amount rolled on 8 attack dice." />
+			<property name="CardID" value="MW1I14" />
+		</card>
+		<card id="a1959fe8-780f-4720-a446-0c2f999e2df2" name="Battle Fury">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Command" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="War" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="The next time this round the target creature makes a non-countrstrike melee attack, at the end of that action it may immediately make a quick action melee attack. This extra attack counts as part of the same attack action. Only one Battle Fury spell may be cast per round on the same creature." />
+			<property name="CardID" value="MW1I02" />
+			<alternate name="Battle Fury" type="B" />
+		</card>
+		<card id="59b650aa-2e7c-42bb-b7b5-4c7a938b2b4b" name="Drain Power">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Mana" />
+			<property name="Cost" value="16" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Mage" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="3" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Magecast" />
+			<property name="Text" value="Roll 8 attack dice. The target loses that much mana from his mana supply. The caster gains mana equal to the mana lost." />
+			<property name="CardID" value="MW1I09" />
+		</card>
+		<card id="9100e9fa-f1b0-47de-95b2-52cd795e97ea" name="Perfect Strike">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Command" />
+			<property name="Cost" value="2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Corporeal Creature" />
+			<property name="School" value="War" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Novice" />
+			<property name="Text" value="Target&apos;s next melee attack this round gains the Unavoidable trait.&#xD;&#xA;[Unavoidable]" />
+			<property name="CardID" value="MW1I18" />
+		</card>
+		<card id="59cd1ea8-72d8-4ce8-90f9-1513ef6940ae" name="Purify">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Healing" />
+			<property name="Cost" value="X" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Remove as many poison conditions as you wish from the target, paying the removal cost for each one. Then, destroy as many revealed poison enchantments from the target as you wish, paying the total mana cost (casting and reveal cost) for each one." />
+			<property name="CardID" value="MW1I20" />
+		</card>
+		<card id="d781b3a9-4c77-47c0-a899-0067fbafe856" name="Sleep">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Psychic" />
+			<property name="Cost" value="X" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Non-Mage Living Creature" />
+			<property name="School" value="Mind" />
+			<property name="Level" value="2" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Target falls asleep. Place a Sleep condition marker on it. Does not affect creatures with Psychic Immunity. Look up the value of X below: &#xD;&#xA;Level 1 = 4 mana &#xD;&#xA;Level 2 = 5 mana &#xD;&#xA;Level 3 = 6 mana &#xD;&#xA;Add 2 mana to the cost for each Level beyond 3." />
+			<property name="CardID" value="MW1I26" />
+		</card>
+		<card id="96719b92-1dd5-4a7e-b7eb-574464feeca8" name="Minor Heal">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Healing" />
+			<property name="Cost" value="5" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-1" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Holy" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Heal target creature the amount rolled on 5 attack dice." />
+			<property name="CardID" value="MW1I17" />
+		</card>
+		<card id="3aaab9ab-7dbf-4694-b3cb-fc7e4710bad3" name="Seeking Dispel">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Metamagic" />
+			<property name="Cost" value="2" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Hidden Enchantment" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Destroy target hidden enchantment. Controller of target enchantment cannot reveal the enchantment once Seeking Dispel has been cast." />
+			<property name="CardID" value="MW1I24" />
+		</card>
+		<card id="b0624cd4-8802-4e9f-8e1d-869638c3b861" name="Vampiric Strike">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Vampiric" />
+			<property name="Cost" value="3" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Living Creature" />
+			<property name="School" value="Dark" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="" />
+			<property name="Text" value="Target&apos;s next melee attack this round gains the Vampiric and Piercing +1 traits." />
+			<property name="CardID" value="MW1I29" />
+		</card>
+		<card id="daf6a859-cc1a-48a8-bbfb-79365761acee" name="Shift Enchantment">
+			<property name="Type" value="Incantation" />
+			<property name="Subtype" value="Metamagic" />
+			<property name="Cost" value="X" />
+			<property name="Action" value="Quick" />
+			<property name="Range" value="0-2" />
+			<property name="Target" value="Enchantment &amp; New Target" />
+			<property name="School" value="Arcane" />
+			<property name="Level" value="1" />
+			<property name="Stats" value="" />
+			<property name="AttackBar" value="" />
+			<property name="Traits" value="Novice" />
+			<property name="Text" value="Move target enchantment you control to a new legal target. Both the enchantment and the new target must be within range and LoS. X = 1 if the enchantment is hidden, or the Level of the enchantment if it is revealed." />
+			<property name="CardID" value="MW1I25" />
+		</card>
+	</cards>
+</set>

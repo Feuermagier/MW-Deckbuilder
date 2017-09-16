@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="flammenschmiede">
+  <card name="Devil's Trident" id="675c07ff-cbe3-462b-bda2-81c95812f026">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Hurl Rock" id="8163ee1a-da88-4bbd-8eed-4f1ca3cdc0a2">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Harshforge Monolith" id="5eca0e21-79c9-495b-b6ee-29f0a54ea894">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Altar of Carnage" id="e8ee7c9f-0438-4740-8507-b5f065495df9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Altar of Domination" id="de856909-14ae-4a6c-910a-88d1c33b86eb">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Armory" id="0cea5239-b6a1-4826-a636-2fc213b5efcf">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Construction Yard" id="6520a411-1553-4b09-baf1-d814ba92ad28">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Rolling Fog" id="d7130cee-5fc4-4922-b10e-51c977b5d581">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Wall of Earth" id="a81df3d7-fcb9-4afb-8da8-6e24db0f064e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Asyran Defender" id="47e4c2d3-8eb3-4040-bd5e-e289253ef60e">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Blood Demon" id="2bb70070-7b6e-4bdf-b75a-e739810ff3ac">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Bloodcrag Minotaur" id="b1f01ef5-7382-4254-8761-293fde18e240">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Cerberus" id="14b02bf9-1492-44c8-9a51-f8ef280dd08b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Anvil Throne Crossbowman" id="ac8580d2-641c-4917-a56d-4123ab1e43c9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Goblin Alchemist" id="c574c794-bfc6-487c-a1c2-477ff29f6d22">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Gurmash, Orc Sergeant" id="eeb4e53a-b6e4-4f18-a8a7-1e6289830c11">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Infernian Scourger" id="a79cacbc-183e-4d91-9157-b47c7eac8d41">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Otto Kronig, Master Engineer" id="c29ba11c-7557-481d-b939-cf0d91a9b763">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Sardonyx, Blight of the Living" id="860a3d47-949a-4205-aa3b-05a746d0ec6b">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Sersiryx, Imp Familiar" id="8c26f3e9-2124-4fc0-b752-a68ad740b088">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Talos" id="c1a636f3-a019-4202-a629-1d00fa91efe1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Wildfire Imp" id="d3d74607-ebe1-4533-a7b6-e5a758e10e83">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Adramelech's Touch" id="fe74477b-1858-42a7-a5de-739f965944c3">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Akiro's Favor" id="38829558-8804-4804-a16d-e3491fdeebe1">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Arcane Corruption" id="065fff7f-3189-4965-ab62-0e8f95db1e0c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Brace Yourself" id="7cebacd8-7bef-43b7-93ce-c071e34ca3ea">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Fumble" id="931f7873-015c-47d2-8f92-3a1426b001b5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Lion Savagery" id="b8f44b5f-29f5-4e47-84d1-122349187585">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Rust" id="09e11b3e-3129-4a87-8f8e-b3c18045389a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Adramelech's Torment" id="9e7cbef4-1ad9-46cf-95c0-1aafd656c85d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Bloodfire Helmet" id="bd37ecb3-e239-4e72-a780-99927244e35c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Eisenach's Forge Hammer" id="6e9de163-3737-4c51-88b1-11b26e7300d9">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="General's Signet Ring" id="0b900457-eae5-47f6-87f9-8a6fa213d9bc">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Harshforge Plate" id="973a5e42-c3aa-45a2-8d0d-349e6219ff53">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="Morning Star" id="82a0a369-821d-4f9f-bf27-17363de8e71d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Combustion" id="0c8ccd8a-57c0-4189-86a3-e066174f19af">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Conquer" id="df73383f-4575-4db6-8084-9dbfe6b339d5">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Disarm" id="0f4224ca-81f7-46fa-babd-1856dd8724ec">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Flank Attack" id="6a108df8-8ca1-4bb5-8554-3b70bbfcc03d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Ignite" id="6a8d90fb-8573-480c-8a0d-dabc460b5f45">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Defend" id="04c9e8ae-8b36-4ea6-b8fb-9f01e1fc5dd6">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+</extraInfo>

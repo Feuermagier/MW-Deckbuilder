@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.cell.*?> 
+<?import javafx.collections.*?> 
+
+<HBox xmlns:fx="http://javafx.com/fxml/1">
+	<Label text="" />
+	<ComboBox promptText="Aktion">
+		<items>
+			<FXCollections fx:factory="observableArrayList">
+				<String fx:value="Vollständig" />
+				<String fx:value="Schnell" />
+			</FXCollections>
+		</items>
+	</ComboBox>
+	<ComboBox promptText="Typ">
+		<items>
+			<FXCollections fx:factory="observableArrayList">
+				<String fx:value="Nahkampf" />
+				<String fx:value="Fernkampf" />
+				<String fx:value="Schadensbarriere" />
+				<String fx:value="Angriff bei Durchgang" />
+				<String fx:value="Trampeln" />
+			</FXCollections>
+		</items>
+	</ComboBox>
+	<ComboBox promptText="Schadensart">
+		<items>
+			<FXCollections fx:factory="observableArrayList">
+				<String fx:value="Heilung" />
+				<String fx:value="Flamme" />
+				<String fx:value="Blitz" />
+				<String fx:value="Säure" />
+				<String fx:value="Wasser" />
+				<String fx:value="Übersinnlich" />
+				<String fx:value="Licht" />
+				<String fx:value="Wind" />
+				<String fx:value="Gift" />
+			</FXCollections>
+		</items>
+	</ComboBox>
+	<Label text="Zonenangriff:" />
+	<CheckBox />
+	<Label text="Würfel:" />
+	<Spinner />
+	<TextField promptText="W12-Effekte, Schema: WürfelzahlMin-WürfelzahlMax:Effekt(auf Englisch)" />
+	<TextField promptText="Angreiffsmerkmale (Englisch)" />	
+</HBox>
+

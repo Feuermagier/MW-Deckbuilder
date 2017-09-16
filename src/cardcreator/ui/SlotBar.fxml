@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.cell.*?> 
+<?import javafx.collections.*?> 
+
+<HBox xmlns:fx="http://javafx.com/fxml/1">
+	<ComboBox>
+		<items>
+			<FXCollections fx:factory="observableArrayList">
+				<String fx:value="Helm" />
+				<String fx:value="Amulett" />
+				<String fx:value="Hose" />
+				<String fx:value="Umhang" />
+				<String fx:value="Ring" />
+				<String fx:value="Schild" />
+				<String fx:value="Oberteil" />
+				<String fx:value="Gürtel" />
+				<String fx:value="Waffe" />
+				<String fx:value="Stiefel" />
+				<String fx:value="Handschuhe" />
+			</FXCollections>
+		</items>
+	</ComboBox>
+</HBox>
+

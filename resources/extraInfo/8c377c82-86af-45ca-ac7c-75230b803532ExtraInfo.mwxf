@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extraInfo set="domination">
+  <card name="Bolt of V'Tar" id="2bc9e256-d325-435a-81ea-e6ad31b3f56b">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+    <tags>domination</tags>
+  </card>
+  <card name="Dragon's Breath" id="3f7a8262-09e1-40bd-8fb9-c7c6ac880ae0">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Hurl Meteorite" id="4d8e3876-3c1d-4448-895e-4fc929625673">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Sandstorm" id="5c22f66f-bbeb-4027-b20f-3e468d428111">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="V'Tarrian Energy Wave" id="6e4c7b12-9bc4-4c19-976f-840e40999a03">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+    <tags>domination</tags>
+  </card>
+  <card name="Windstorm" id="6ffd7fe8-14ac-4bfa-8da4-aef87dbaa61a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Altar of the Iron Guard" id="9b486167-9d34-424d-85c2-014d8772730a">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Gravikor" id="27dacd66-4f54-465e-a728-10358b0c7548">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+  </card>
+  <card name="V'Torrak Gate" id="54e67290-5e6a-4d8a-8bf0-bbb8fddf7ddd">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+    <tags>domination</tags>
+  </card>
+  <card name="Raincloud" id="62a0b1ac-91d1-4dc5-9bcc-eb4209261388">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Galaxxus" id="71e32301-4724-497d-9224-9f052fcf9808">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>domination</tags>
+  </card>
+  <card name="Wall of Force" id="82ce9e6d-a218-488a-843c-46b85f3f393d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Guard Dog" id="811f2772-a2fa-4bf7-acd4-cb962e29f605">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Oscuda" id="9153fc63-f781-443a-ab94-10c5acb50faa">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Skeelax, Taunting Imp" id="42464e26-8982-4244-b06e-2aab60f88203">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Slaknir, Goblin Chieftain" id="721428d1-878a-457b-8885-4e5f9bb2e20c">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="3" />
+  </card>
+  <card name="Sslak, Orb Guardian" id="865954e9-4c67-4858-b3e0-484c66e19db9">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="12" />
+    <tags>domination</tags>
+  </card>
+  <card name="Usslak, Greater Orb Guardian" id="5688957a-e243-4999-8301-b869be3f6fdb">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+    <tags>domination</tags>
+  </card>
+  <card name="Astral Anchor" id="80055594-f757-4d3c-ae32-13b1210cee28">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+  </card>
+  <card name="Plagued" id="bf217fd3-18c0-4b61-a33a-117167533f3d">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="Sentinel of V'Tar" id="c0dbf89b-5373-47b5-ab1f-979400ea69f8">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+    <tags>domination</tags>
+  </card>
+  <card name="V'Tar Force Sentry" id="d44f62c7-0a73-4ac1-9b21-9b32638b205c">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+    <tags>domination</tags>
+  </card>
+  <card name="Cascading Force Wave" id="e3e77121-4a91-443b-ae3a-1d7c4241b0ee">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+  <card name="V'Tarrian Healing Song" id="ec457b85-b18a-4e4f-b6c6-7a498a8ebbe4">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="6" />
+    <tags>domination</tags>
+  </card>
+  <card name="V'Tar Suppression" id="f397a9b9-24dd-4f0b-a3a0-17337ec69d9f">
+    <role value="domination" />
+    <errata url="" />
+    <help url="" />
+    <number value="2" />
+    <tags>domination</tags>
+  </card>
+  <card name="Gale Force Ring" id="fa23207a-afe0-4757-a7f0-fe38cd974c71">
+    <role value="" />
+    <errata url="" />
+    <help url="" />
+    <number value="4" />
+  </card>
+</extraInfo>
