@@ -15,12 +15,14 @@ import application.builder.Spellbook;
 import application.data.xml.OctgnCardReader;
 import application.mages.AirWizard;
 import application.translation.TranslaterNew;
-import cardcreator.core.CardCreator;
 import firemage.utils.CollectionUtils;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Scene;
 import javafx.scene.image.Image;
+import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
 public class Main extends Application {
@@ -51,14 +53,14 @@ public class Main extends Application {
 			primaryStage.getIcons().add(new Image(new FileInputStream(APP_ICON)));
 			primaryStage.setMaximized(true);
 
-			/*FXMLLoader loader = new FXMLLoader(getClass().getResource("BuilderUI.fxml"),
+			FXMLLoader loader = new FXMLLoader(getClass().getResource("BuilderUI.fxml"),
 					TranslaterNew.getInstance().getCurrentLocale().getUILabels());
 			Pane myPane = (Pane) loader.load();
 			Scene scene = new Scene(myPane);
 			currentSpellbook.addSpellbookListener(loader.getController());
 			primaryStage.setScene(scene);
-			primaryStage.show();*/
-			new CardCreator();
+			primaryStage.show();
+			//new CardCreator();
 		} catch (Exception e) {
 			log.error("Error when starting", e);
 		}
