@@ -68,7 +68,12 @@ public class CardXMLOutputter {
 		
 		cardElement.addContent(createTextElement("action", card.getAction()));
 		
+		cardElement.addContent(createTextElement("range", "", new Attribute("min", String.valueOf(card.getRangeMin())), new Attribute("max", String.valueOf(card.getRangeMax()))));
 		
+		Element statsElement = new Element("stats");
+		statsElement.addContent(createTextElement("armor", String.valueOf(card.getArmor())));
+		statsElement.addContent(createTextElement("life", String.valueOf(card.getLife())));
+		statsElement.addContent(createTextElement("manaCollect", String.valueOf(card.getManaCollect())));
 		
 	}
 	
